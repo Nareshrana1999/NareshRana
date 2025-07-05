@@ -109,12 +109,44 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🎵 Now Player
 
 <div align="center">
-  <a href="./now-player" style="display: inline-block; padding: 12px 28px; background: #1DB954; color: white; text-decoration: none; border-radius: 30px; font-weight: 600; font-size: 16px; transition: all 0.3s ease; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; box-shadow: 0 4px 15px rgba(29, 185, 84, 0.3);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 20px rgba(29, 185, 84, 0.4)'" onmouseout="this.style.transform='none'; this.style.boxShadow='0 4px 15px rgba(29, 185, 84, 0.3)'">
-    🎵 Open Now Player
-  </a>
+  <div style="max-width: 380px; margin: 0 auto; background: #1e1e1e; border-radius: 12px; padding: 20px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+    <!-- Album Art -->
+    <div style="width: 100%; aspect-ratio: 1; background: linear-gradient(135deg, #1DB954 0%, #1ed760 100%); border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);">
+      <span style="font-size: 48px;">🎵</span>
+    </div>
+    
+    <!-- Song Info -->
+    <div style="margin-bottom: 16px; text-align: left;">
+      <div style="font-size: 18px; font-weight: 600; color: #ffffff; margin-bottom: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Now Playing</div>
+      <div style="font-size: 14px; color: #b3b3b3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">A Beautiful Song</div>
+    </div>
+    
+    <!-- Progress Bar -->
+    <div style="background: #404040; height: 4px; border-radius: 2px; margin-bottom: 8px; overflow: hidden;">
+      <div style="width: 45%; height: 100%; background: #1DB954; border-radius: 2px;"></div>
+    </div>
+    
+    <!-- Time -->
+    <div style="display: flex; justify-content: space-between; margin-bottom: 16px;">
+      <span style="font-size: 12px; color: #b3b3b3;">1:23</span>
+      <span style="font-size: 12px; color: #b3b3b3;">3:45</span>
+    </div>
+    
+    <!-- Controls -->
+    <div style="display: flex; justify-content: center; gap: 24px; align-items: center; margin-bottom: 16px;">
+      <span style="color: #b3b3b3; font-size: 16px; cursor: pointer;">⏮️</span>
+      <span style="background: #1DB954; color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; box-shadow: 0 4px 12px rgba(29, 185, 84, 0.3);">▶️</span>
+      <span style="color: #b3b3b3; font-size: 16px; cursor: pointer;">⏭️</span>
+    </div>
+    
+    <!-- Open Player Button -->
+    <a href="./now-player" style="display: block; background: rgba(255, 255, 255, 0.1); color: white; text-align: center; padding: 10px; border-radius: 20px; text-decoration: none; font-size: 14px; font-weight: 500; transition: all 0.2s ease;" onmouseover="this.style.background='rgba(255, 255, 255, 0.15)'" onmouseout="this.style.background='rgba(255, 255, 255, 0.1)'">
+      Open in Full Player
+    </a>
+  </div>
+  
+  <p style="margin-top: 16px; color: #888; font-size: 14px;">Click the player above to open the full experience</p>
 </div>
-
-### 🔗 [Open Now Player](./now-player)
 
 <div align="center" style="margin: 15px 0;">
   <a href="./now-player" style="text-decoration: none;">
