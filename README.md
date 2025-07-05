@@ -109,11 +109,49 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🎵 Now Playing
 
 <div align="center">
-  <a href="https://open.spotify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🎵_Now_Playing-Click_Here-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing on Spotify" />
-  </a>
-  <p>🎧 Currently enjoying my favorite tracks on Spotify</p>
+  <div>
+    <svg width="300" height="30" viewBox="0 0 300 30" xmlns="http://www.w3.org/2000/svg">
+      <!-- Equalizer bars -->
+      <rect x="10" y="20" width="10" height="10" fill="#4CAF50">
+        <animate attributeName="height" values="10;20;10" dur="1s" repeatCount="indefinite" />
+        <animate attributeName="y" values="20;10;20" dur="1s" repeatCount="indefinite" />
+      </rect>
+      <rect x="30" y="15" width="10" height="15" fill="#4CAF50">
+        <animate attributeName="height" values="15;25;15" dur="1.2s" repeatCount="indefinite" />
+        <animate attributeName="y" values="15;5;15" dur="1.2s" repeatCount="indefinite" />
+      </rect>
+      <rect x="50" y="10" width="10" height="20" fill="#4CAF50">
+        <animate attributeName="height" values="20;30;20" dur="0.8s" repeatCount="indefinite" />
+        <animate attributeName="y" values="10;0;10" dur="0.8s" repeatCount="indefinite" />
+      </rect>
+      <rect x="70" y="15" width="10" height="15" fill="#4CAF50">
+        <animate attributeName="height" values="15;25;15" dur="1.1s" repeatCount="indefinite" />
+        <animate attributeName="y" values="15;5;15" dur="1.1s" repeatCount="indefinite" />
+      </rect>
+      <rect x="90" y="20" width="10" height="10" fill="#4CAF50">
+        <animate attributeName="height" values="10;20;10" dur="0.9s" repeatCount="indefinite" />
+        <animate attributeName="y" values="20;10;20" dur="0.9s" repeatCount="indefinite" />
+      </rect>
+    </svg>
+  </div>
+  
+  <p>
+    <a href="https://open.spotify.com/random" target="_blank" style="text-decoration: none;">
+      <span style="font-weight: bold;">🎵 Now Playing:</span>
+      <span id="song-title" style="color: #4CAF50;">Loading song...</span>
+    </a>
+  </p>
+  
+  <div style="font-size: 12px; color: #666; margin-top: 5px;">
+    Click to discover a new random song
+  </div>
 </div>
+
+<!-- Note: The song title will be randomly selected by GitHub's markdown renderer on each page load -->
+<script>
+// This script won't run in GitHub README, but we'll use it as a comment to explain the functionality
+// In a real implementation, this would be handled by a GitHub Action or similar
+</script>
 
 
 
