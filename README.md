@@ -106,6 +106,11 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+## 🎵 Now Playing
+
+🎧 Listening to my favorite tunes on [Spotify](https://open.spotify.com/)
+
+
 
 ## 💼 Professional Experience
 
