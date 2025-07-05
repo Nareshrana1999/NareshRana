@@ -106,12 +106,48 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 🎵 Now Player
+## 🎵 Now Playing
 
-<div align="center">
-  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #f5f5f5; border-radius: 8px; text-decoration: none; transition: all 0.2s ease;" onmouseover="this.style.background='#e0e0e0'" onmouseout="this.style.background='#f5f5f5'" title="Preview Now Player">
-    <span style="color: #1DB954; font-size: 20px; margin-left: 2px;">▶</span>
-  </a>
+<div align="center" style="margin: 20px 0;">
+  <div style="background: linear-gradient(145deg, #1DB954, #1ed760); padding: 20px; border-radius: 16px; box-shadow: 0 8px 24px rgba(29, 185, 84, 0.15); max-width: 500px; margin: 0 auto;">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+      <div style="display: flex; align-items: center;">
+        <div style="width: 50px; height: 50px; background: rgba(255, 255, 255, 0.2); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+          <span style="color: white; font-size: 24px;">🎵</span>
+        </div>
+        <div>
+          <div style="color: white; font-weight: 600; font-size: 16px;">Tech Stack</div>
+          <div style="color: rgba(255, 255, 255, 0.9); font-size: 12px; letter-spacing: 0.5px;">Play Music</div>
+        </div>
+      </div>
+      <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank" style="background: white; color: #1DB954; border: none; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; text-decoration: none; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Play Now">
+        <span style="font-size: 18px; margin-left: 2px;">▶</span>
+      </a>
+    </div>
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 15px;">
+      <div style="background: rgba(255, 255, 255, 0.15); padding: 6px 12px; border-radius: 20px; display: inline-flex; align-items: center; gap: 6px; color: white; font-size: 12px; font-weight: 500; backdrop-filter: blur(4px);">
+        <img src="https://img.icons8.com/color/16/000000/docker.png" alt="Docker" width="16" height="16">
+        <span>Docker</span>
+      </div>
+      <div style="background: rgba(255, 255, 255, 0.15); padding: 6px 12px; border-radius: 20px; display: inline-flex; align-items: center; gap: 6px; color: white; font-size: 12px; font-weight: 500; backdrop-filter: blur(4px);">
+        <img src="https://img.icons8.com/color/16/000000/kubernetes.png" alt="Kubernetes" width="16" height="16">
+        <span>Kubernetes</span>
+      </div>
+      <div style="background: rgba(255, 255, 255, 0.15); padding: 6px 12px; border-radius: 20px; display: inline-flex; align-items: center; gap: 6px; color: white; font-size: 12px; font-weight: 500; backdrop-filter: blur(4px);">
+        <img src="https://img.icons8.com/color/16/000000/amazon-web-services.png" alt="AWS" width="16" height="16">
+        <span>AWS</span>
+      </div>
+      <div style="background: rgba(255, 255, 255, 0.15); padding: 6px 12px; border-radius: 20px; display: inline-flex; align-items: center; gap: 6px; color: white; font-size: 12px; font-weight: 500; backdrop-filter: blur(4px);">
+        <img src="https://img.icons8.com/color/16/000000/azure-1.png" alt="Azure" width="16" height="16">
+        <span>Azure</span>
+      </div>
+      <div style="background: rgba(255, 255, 255, 0.15); padding: 6px 12px; border-radius: 20px; display: inline-flex; align-items: center; gap: 6px; color: white; font-size: 12px; font-weight: 500; backdrop-filter: blur(4px);">
+        <img src="https://img.icons8.com/color/16/000000/python.png" alt="Python" width="16" height="16">
+        <span>Python</span>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## 💼 Professional Experience
