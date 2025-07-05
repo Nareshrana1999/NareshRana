@@ -141,17 +141,6 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ![Hardware](https://img.shields.io/badge/-Hardware-0085CA?style=flat&logo=hardware&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0085CA?style=flat&logo=network&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshRana1999&theme=radical" alt="GitHub Streak"/>
-</div>
-
 ## 💼 Professional Experience
 
 ### Full Stack Developer
@@ -408,16 +397,6 @@ Collection of classic and modern browser-based games
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshRana1999&theme=radical" alt="Naresh's GitHub Streak" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-nareshrana1999@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:nareshrana1999@outlook.com)
