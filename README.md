@@ -109,10 +109,52 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🎵 Now Playing
 
 <div align="center" style="margin: 20px 0 30px;">
-  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Now_Playing-1DB954?style=for-the-badge&logo=musical-notes&logoColor=white" alt="Now Playing" />
+  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display: inline-block; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+     onmouseover="this.style.transform='scale(1.05)'; this.style.filter='brightness(1.05)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"
+     ontouchstart="this.style.transform='scale(0.98)';"
+     ontouchend="this.style.transform='scale(1.05)';"
+     class="now-playing-badge">
+    <img src="https://img.shields.io/badge/🎵_Now_Playing-1DB954?style=for-the-badge&logo=musical-notes&logoColor=white&logoWidth=22" 
+         alt="Now Playing" 
+         style="height: 40px; min-width: 180px; transition: all 0.2s ease;" />
   </a>
 </div>
+
+<style>
+  /* Animation for the badge */
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.03); }
+    100% { transform: scale(1); }
+  }
+  
+  .now-playing-badge img {
+    animation: pulse 3s infinite;
+  }
+  
+  .now-playing-badge:hover img {
+    animation: none;
+    box-shadow: 0 4px 12px rgba(29, 185, 84, 0.2);
+  }
+  
+  /* Touch feedback */
+  .now-playing-badge:active img {
+    transform: scale(0.98);
+    transition: transform 0.1s ease;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .now-playing-badge img {
+      height: 36px !important;
+      min-width: 160px !important;
+    }
+  }
+</style>
 
 ## 💼 Professional Experience
 
