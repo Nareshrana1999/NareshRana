@@ -1,17 +1,22 @@
 <div align="center">
-  <h1>Hi there, I'm Naresh Rana 👋</h1>
-  <p>Full Stack Developer | AI/ML Enthusiast | DevOps Engineer</p>
+  <!-- Animated Typing Intro -->
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Naresh+Rana+%F0%9F%91%8B;Full+Stack+Developer;AI%2FML+Enthusiast;DevOps+Engineer" alt="Typing SVG" />
+    </a>
+  </div>
   
   <img src="assets/images/banner.svg" alt="Banner" width="100%"/>
   
+  <!-- Contact Badges -->
   <p align="center">
-    <a href="tel:+916363830414" target="_blank">
-      <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+    <a href="https://wa.me/916363830414" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
     </a>
     <a href="mailto:nareshrana1999@outlook.com" target="_blank">
       <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/Nareshrana1999?tab=repositories" target="_blank">
+    <a href="https://github.com/NareshRana1999" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/naresh-rana-1b3b3b1b3/" target="_blank">
@@ -21,8 +26,17 @@
   
   <img src="https://komarev.com/ghpvc/?username=NareshRana&style=flat-square&color=blueviolet" alt="Profile Views"/>
   
-  <div align="center">
-    <img src="https://spotify-now-playing-nu-six.vercel.app/api/spotify" alt="Now Playing"/>
+  <!-- Spotify Player -->
+  <div align="center" style="margin: 20px 0;">
+    <h3>🎵 Now Playing</h3>
+    <iframe src="https://spotify-github-profile.vercel.app/api/view?uid=31nlfahqmitvn473lhsjenbthtve&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" 
+            width="100%" 
+            height="100" 
+            frameBorder="0" 
+            allowtransparency="true" 
+            allow="encrypted-media"
+            style="border-radius: 8px;">
+    </iframe>
   </div>
   
   <blockquote>
@@ -106,9 +120,9 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NareshRana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true" alt="Naresh's GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NareshRana&theme=radical&hide_border=true" alt="Naresh's GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana&layout=compact&theme=radical&langs_count=8&exclude_repo=GameZone,poker-game" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NareshRana&theme=react-dark&hide_border=true&area=true)
+  [![Naresh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NareshRana&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ## 🏆 GitHub Trophies
@@ -123,39 +137,100 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 - Applied Python, Pandas, NumPy, scikit-learn, and OpenCV to preprocess data and train models
 
 ### AI - DevOps Engineer
-**Aitch Nu Global Technologies | 2024**
-- Built and maintained CI/CD pipelines for efficient deployments
-- Automated server setup and infrastructure tasks to save time
-- Managed cloud environments for high availability and scalability
-- Integrated AI models into production systems for real-time applications
 
-### Accounts Assistant and Storage Manager
-**SPEC Company | 2020**
-- Managed accounting tasks with Tally ERP 9 and prepared financial reports
-- Oversaw inventory of tools and components within storage area
+  </div>
+</div>
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-**Bachelor of Engineering in Computer Science & Engineering**  
-Brindavan College of Engineering | 2022 – 2025 | 82%
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+    
+    <!-- Education Card -->
+    <div style="background: rgba(255, 255, 255, 0.03); border-radius: 15px; padding: 20px; text-align: center;">
+      <div style="background: rgba(74, 222, 128, 0.1); padding: 15px; border-radius: 10px; margin-bottom: 15px;">
+        <h3 style="margin: 0; color: #4ADE80;">🎓 Bachelor's in Computer Science</h3>
+        <p style="margin: 5px 0 0 0; opacity: 0.8;">University Name</p>
+        <p style="margin: 5px 0 0 0; font-size: 0.9em;">2018 - 2022 | CGPA: 8.5/10</p>
+      </div>
+      <div style="text-align: left; margin-top: 15px;">
+        <p style="margin: 5px 0; font-size: 0.9em;">📚 Relevant Coursework:</p>
+        <ul style="padding-left: 20px; margin: 5px 0;">
+          <li>Data Structures & Algorithms</li>
+          <li>Machine Learning</li>
+          <li>Web Development</li>
+          <li>Database Systems</li>
+        </ul>
+      </div>
+    </div>
 
-**Diploma in Computer Science and Engineering**  
-Al Khateeb Polytechnic College | 2016 – 2019 | 75%
+    <!-- Certifications Card -->
+    <div style="background: rgba(255, 255, 255, 0.03); border-radius: 15px; padding: 20px;">
+      <h3 style="margin-top: 0; color: #F59E0B; text-align: center;">🏆 Certifications</h3>
+      
+      <div style="background: rgba(245, 158, 11, 0.1); padding: 10px; border-radius: 8px; margin-bottom: 10px;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <img src="https://img.icons8.com/color/24/000000/amazon-web-services.png" alt="AWS" width="24"/>
+          <div>
+            <p style="margin: 0; font-weight: bold;">AWS Certified Developer</p>
+            <p style="margin: 2px 0 0 0; font-size: 0.8em; opacity: 0.8;">Issued: 2023</p>
+          </div>
+        </div>
+      </div>
+      
+      <div style="background: rgba(245, 158, 11, 0.1); padding: 10px; border-radius: 8px; margin-bottom: 10px;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <img src="https://img.icons8.com/color/24/000000/tensorflow.png" alt="TensorFlow" width="24"/>
+          <div>
+            <p style="margin: 0; font-weight: bold;">TensorFlow Developer</p>
+            <p style="margin: 2px 0 0 0; font-size: 0.8em; opacity: 0.8;">Issued: 2022</p>
+          </div>
+        </div>
+      </div>
+      
+      <div style="background: rgba(245, 158, 11, 0.1); padding: 10px; border-radius: 8px;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <img src="https://img.icons8.com/color/24/000000/microsoft-azure.png" alt="Azure" width="24"/>
+          <div>
+            <p style="margin: 0; font-weight: bold;">Azure AI Engineer</p>
+            <p style="margin: 2px 0 0 0; font-size: 0.8em; opacity: 0.8;">Issued: 2023</p>
+          </div>
+        </div>
+      </div>
+    </div>
 
-## 📜 Certifications
+  </div>
+</div>
 
-- Machine Learning – SkillDzire
-- AI - DevOps Engineer – Aitch Nu Global Technologies
-- Fiber Optic Communication System – Skill India
-- Tally ERP 9
-- Diploma in Computer Application Basics - MS Office
+## 🌍 Languages
 
-## 🌐 Languages
-
-- English (Professional)
-- Hindi (Native)
-- Nepali (Native)
-- Kannada (Fluent)
+<div align="center" style="margin: 20px 0;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <div style="background: rgba(96, 165, 250, 0.1); padding: 10px 20px; border-radius: 20px; display: flex; align-items: center; gap: 8px;">
+      <span>🇬🇧</span>
+      <div>
+        <p style="margin: 0; font-weight: bold;">English</p>
+        <p style="margin: 0; font-size: 0.8em; opacity: 0.8;">Professional</p>
+      </div>
+    </div>
+    
+    <div style="background: rgba(96, 165, 250, 0.1); padding: 10px 20px; border-radius: 20px; display: flex; align-items: center; gap: 8px;">
+      <span>🇮🇳</span>
+      <div>
+        <p style="margin: 0; font-weight: bold;">Hindi</p>
+        <p style="margin: 0; font-size: 0.8em; opacity: 0.8;">Native</p>
+      </div>
+    </div>
+    
+    <div style="background: rgba(96, 165, 250, 0.1); padding: 10px 20px; border-radius: 20px; display: flex; align-items: center; gap: 8px;">
+      <span>🇪🇸</span>
+      <div>
+        <p style="margin: 0; font-weight: bold;">Spanish</p>
+        <p style="margin: 0; font-size: 0.8em; opacity: 0.8;">Basic</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## 🎯 Interests
 
@@ -166,35 +241,61 @@ Outdoor sports, trekking, gaming, traveling, motorbiking, movies/series/anime, s
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 🚀 Featured Projects
-
-Here are some of my notable projects. Click on each card to learn more!
+## 🚀 My Projects
 
 <div align="center">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+    
+    <!-- Project 1 -->
+    <div style="background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 20px; transition: transform 0.3s ease;">
+      <h3>Object Detection with YOLOv8</h3>
+      <div style="margin: 10px 0;">
+        <span style="background: #FF6F00; color: white; padding: 3px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 5px;">YOLOv8</span>
+        <span style="background: #27338E; color: white; padding: 3px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 5px;">OpenCV</span>
+        <span style="background: #3776AB; color: white; padding: 3px 8px; border-radius: 12px; font-size: 0.8em;">Python</span>
+      </div>
+      <p>Advanced object detection system using YOLOv8 for real-time object recognition and tracking.</p>
+      <a href="#" style="text-decoration: none;">
+        <div style="background: #4285F4; color: white; padding: 8px 15px; border-radius: 5px; text-align: center; margin-top: 10px; font-weight: bold;">
+          View on GitHub
+        </div>
+      </a>
+    </div>
 
-### Project 1: Project Name
-[![Project 1](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-> A brief description of the project and its key features.
+    <!-- Project 2 -->
+    <div style="background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 20px; transition: transform 0.3s ease;">
+      <h3>E-commerce Platform</h3>
+      <div style="margin: 10px 0;">
+        <span style="background: #61DAFB; color: #282C34; padding: 3px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 5px;">React</span>
+        <span style="background: #339933; color: white; padding: 3px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 5px;">Node.js</span>
+        <span style="background: #4EA94B; color: white; padding: 3px 8px; border-radius: 12px; font-size: 0.8em;">MongoDB</span>
+      </div>
+      <p>Full-stack e-commerce platform with user authentication, product catalog, and payment integration.</p>
+      <a href="#" style="text-decoration: none;">
+        <div style="background: #4285F4; color: white; padding: 8px 15px; border-radius: 5px; text-align: center; margin-top: 10px; font-weight: bold;">
+          View on GitHub
+        </div>
+      </a>
+    </div>
 
-### Project 2: Project Name
-[![Project 2](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project2)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-> A brief description of the project and its key features.
+    <!-- Project 3 -->
+    <div style="background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 20px; transition: transform 0.3s ease;">
+      <h3>Smart Home Automation</h3>
+      <div style="margin: 10px 0;">
+        <span style="background: #000000; color: white; padding: 3px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 5px;">IoT</span>
+        <span style="background: #00979D; color: white; padding: 3px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 5px;">Raspberry Pi</span>
+        <span style="background: #3776AB; color: white; padding: 3px 8px; border-radius: 12px; font-size: 0.8em;">Python</span>
+      </div>
+      <p>IoT-based home automation system with remote control and monitoring capabilities.</p>
+      <a href="#" style="text-decoration: none;">
+        <div style="background: #4285F4; color: white; padding: 8px 15px; border-radius: 5px; text-align: center; margin-top: 10px; font-weight: bold;">
+          View on GitHub
+        </div>
+      </a>
+    </div>
 
-### Project 3: Project Name
-[![Project 3](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project3)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> A brief description of the project and its key features.
-
+  </div>
 </div>
-
----
-
-## 🚀 All Projects
 
 ### Object Detection with YOLOv8
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00f?style=for-the-badge&logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
