@@ -108,7 +108,12 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 
 ## 🎵 Now Playing
 
-🎧 Listening to my favorite tunes on [Spotify](https://open.spotify.com/)
+<div align="center">
+  <a href="https://open.spotify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Now_Playing-Click_Here-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing on Spotify" />
+  </a>
+  <p>🎧 Currently enjoying my favorite tracks on Spotify</p>
+</div>
 
 
 
