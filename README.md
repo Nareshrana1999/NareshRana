@@ -174,11 +174,11 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 <!-- Removed Education and Projects sections as requested -->
 ## 🏆 Certifications & Achievements
 
-- 💻 Machine Learning
-- 💻 Full Stack Development
-- 💻 Cloud Computing
-- 💻 Python Programming
-- 💻 Tally ERP 9
+- 🤖 **Machine Learning** – SkillDzire
+- 🤖 **AI - DevOps Engineer** – Aitch Nu Global Technologies
+- 🔌 **Fiber Optic Communication System** – Skill India (Ministry of Skill Development & Entrepreneurship)
+- 💼 **Tally ERP 9**
+- 💻 **Diploma in Computer Application Basics - MS Office**
 
 ---
 
