@@ -24,7 +24,48 @@
   <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
 
-
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin: 20px 0;">
+    <!-- GitHub Stats Card -->
+    <div style="flex: 1; min-width: 280px; max-width: 400px;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0d47a1&icon_color=0d47a1&text_color=ffffff" 
+        alt="GitHub Stats" 
+        style="width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
+      >
+    </div>
+    
+    <!-- GitHub Streak Stats -->
+    <div style="flex: 1; min-width: 280px; max-width: 400px;">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=NareshRana1999&theme=radical&hide_border=true&background=0d1117&stroke=0d47a1&ring=0d47a1&fire=0d47a1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0d47a1&sideLabels=ffffff&dates=ffffff" 
+        alt="GitHub Streak"
+        style="width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
+      >
+    </div>
+  </div>
+  
+  <!-- Top Languages -->
+  <div style="margin: 20px 0;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0d47a1&text_color=ffffff" 
+      alt="Top Languages"
+      style="width: 90%; max-width: 800px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
+    >
+  </div>
+  
+  <!-- GitHub Trophy -->
+  <div style="margin: 20px 0;">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&row=1&column=7" 
+      alt="GitHub Trophies"
+      style="width: 100%; max-width: 800px; border-radius: 10px;"
+    >
+  </div>
+</div>
 
 ## 👨‍💻 Professional Summary
 
