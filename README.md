@@ -141,27 +141,6 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ![Hardware](https://img.shields.io/badge/-Hardware-0085CA?style=flat&logo=hardware&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0085CA?style=flat&logo=network&logoColor=white)
 
-## 💼 Professional Experience
-
-### Full Stack Developer
-**ABC Tech** | Jan 2022 - Present  
-- Developed and maintained web applications using React and Node.js
-- Implemented CI/CD pipelines using GitHub Actions
-- Collaborated with cross-functional teams to deliver high-quality software
-
-### Software Engineer Intern
-**XYZ Solutions** | Jun 2021 - Dec 2021  
-- Assisted in developing and testing software applications
-- Fixed bugs and improved application performance
-- Participated in code reviews and team meetings
-
-### 💻 IT Support & Networking
-**Store-Based Service** | *2015-2016*  
-- Set up and configured computer systems  
-- Troubleshot hardware and network issues  
-- Provided technical support and maintenance  
-
----
 
 <!-- Removed Education and Projects sections as requested -->
 ## 🏆 Certifications & Achievements
