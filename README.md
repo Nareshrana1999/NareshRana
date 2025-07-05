@@ -108,9 +108,9 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 
 ## 🎵 Now Playing
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31nlfahqmitvn473lhsjenbthtve)
+[![Spotify Now Playing](https://spotify-now-playing-nu-henna.vercel.app/api/spotify?user=31nlfahqmitvn473lhsjenbthtve&random=true)](https://open.spotify.com/user/31nlfahqmitvn473lhsjenbthtve)
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31nlfahqmitvn473lhsjenbthtve&count=1&width=400&unique=true)](https://open.spotify.com/user/31nlfahqmitvn473lhsjenbthtve)
+<sub>♫ A random song from my library</sub>
 
 ## 💼 Professional Experience
 
