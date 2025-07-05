@@ -108,30 +108,35 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 
 ## 🎵 Now Playing
 
-<div align="center" style="margin: 10px 0 20px 0;">
-  <div style="display: flex; justify-content: center; align-items: flex-end; height: 40px; margin-bottom: 8px;">
-    <div style="width: 10px; height: 20px; background: #4CAF50; margin: 0 3px; animation: equalize 1.5s ease-in-out infinite alternate;"></div>
-    <div style="width: 10px; height: 30px; background: #4CAF50; margin: 0 3px; animation: equalize 1.2s ease-in-out infinite alternate-reverse;"></div>
-    <div style="width: 10px; height: 25px; background: #4CAF50; margin: 0 3px; animation: equalize 1.7s ease-in-out infinite alternate;"></div>
-    <div style="width: 10px; height: 35px; background: #4CAF50; margin: 0 3px; animation: equalize 1.3s ease-in-out infinite alternate-reverse;"></div>
-    <div style="width: 10px; height: 20px; background: #4CAF50; margin: 0 3px; animation: equalize 1.6s ease-in-out infinite alternate;"></div>
-  </div>
-  
-  <a href="https://open.spotify.com/random" target="_blank" style="text-decoration: none; color: #333; font-size: 15px; font-weight: 500; display: inline-block; margin: 5px 0; padding: 5px 15px; border-radius: 15px; background: #f5f5f5; transition: all 0.3s ease;">
-    🎵 Discover Random Song
+<div align="center" style="margin: 20px 0 30px 0;">
+  <a href="./now-player" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%); border-radius: 12px; padding: 20px; max-width: 500px; margin: 0 auto; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+        <div style="display: flex; align-items: center;">
+          <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #1DB954 0%, #1ed760 100%); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px; box-shadow: 0 4px 8px rgba(29, 185, 84, 0.2);">
+            <span style="color: white; font-size: 20px;">▶️</span>
+          </div>
+          <div>
+            <div style="font-weight: 700; color: #333; font-size: 16px; margin-bottom: 3px;">Now Player</div>
+            <div style="font-size: 13px; color: #666;">Click to open music player</div>
+          </div>
+        </div>
+        <div style="color: #1DB954; font-size: 14px; font-weight: 600;">Open →</div>
+      </div>
+      <div style="height: 5px; background: #e0e0e0; border-radius: 3px; overflow: hidden;">
+        <div style="width: 65%; height: 100%; background: linear-gradient(90deg, #1DB954, #1ed760); border-radius: 3px; position: relative;"></div>
+      </div>
+      <div style="display: flex; justify-content: space-between; margin-top: 8px; font-size: 11px; color: #888;">
+        <span>1:23</span>
+        <span>3:45</span>
+      </div>
+    </div>
   </a>
   
-  <div style="font-size: 11px; color: #777; margin-top: 5px;">
-    Click to explore new music
+  <div style="margin-top: 15px; font-size: 13px; color: #666; max-width: 500px; margin-left: auto; margin-right: auto; line-height: 1.5;">
+    <p>🎧 <strong>Now Player</strong> - A modern music player for your local music collection. Features include play/pause controls, track navigation, and a beautiful interface.</p>
   </div>
 </div>
-
-<style>
-  @keyframes equalize {
-    0% { height: 10px; }
-    100% { height: 40px; }
-  }
-</style>
 
 
 
