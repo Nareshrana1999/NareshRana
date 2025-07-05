@@ -1,68 +1,61 @@
-<!-- Animated Text -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=42&duration=3000&pause=1000&color=1e3c72&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Naresh+Rana;Full+Stack+Developer;AI%2FML+Enthusiast;DevOps+Engineer" alt="Typing SVG"/>
-</div>
+# Hi there, I'm Naresh Rana
 
-<!-- Custom Banner -->
-<div align="center" style="position: relative; margin-bottom: 40px;">
-  <img src="assets/images/banner.svg" alt="Naresh Rana - Full Stack Developer" style="max-width: 100%; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);"/>
-  
-  <!-- Social Links at Bottom of Banner -->
-  <div style="position: absolute; bottom: -60px; left: 0; right: 0; margin: 0 auto; max-width: 800px;">
-    <div style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.1);">
-      <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px; flex-wrap: wrap;">
-        <a href="https://github.com/NareshRana1999" target="_blank" style="text-decoration: none;">
-          <div style="background: #f5f5f5; padding: 10px 20px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #e0e0e0;">
-            <img src="https://img.icons8.com/ios-filled/24/333333/github.png" width="18" alt="GitHub"/>
-            <span style="color: #333; font-weight: 500;">GitHub</span>
-          </div>
-        </a>
-        <a href="https://wa.me/916363830414" target="_blank" style="text-decoration: none;">
-          <div style="background: #f5f5f5; padding: 10px 20px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #e0e0e0;">
-            <img src="https://img.icons8.com/ios-filled/24/333333/whatsapp.png" width="18" alt="WhatsApp"/>
-            <span style="color: #333; font-weight: 500;">+91 6363830414</span>
-          </div>
-        </a>
-        <a href="mailto:nareshrana1999@outlook.com" style="text-decoration: none;">
-          <div style="background: #f5f5f5; padding: 10px 20px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #e0e0e0;">
-            <img src="https://img.icons8.com/ios-filled/24/333333/mail.png" width="18" alt="Email"/>
-            <span style="color: #333; font-weight: 500;">nareshrana1999@outlook.com</span>
-          </div>
-        </a>
-      </div>
-      
-      <div style="display: flex; justify-content: center; gap: 15px;">
-        <a href="https://github.com/NareshRana1999?tab=repositories" target="_blank" style="text-decoration: none;">
-          <div style="background: #4CAF50; padding: 10px 25px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
-            <span style="color: white; font-weight: 600;">View My Work</span>
-            <img src="https://img.icons8.com/ios-filled/20/ffffff/external-link.png" width="14" alt="View Work"/>
-          </div>
-        </a>
-      </div>
-      
-      <!-- View Count -->
-      <div style="text-align: center; margin-top: 15px;">
-        <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=flat-square&color=blue" alt="Profile views"/>
-      </div>
-    </div>
-  </div>
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=NareshRana1999&style=flat-square&color=blue&label=Profile%20Views)](https://github.com/NareshRana1999)
 
-<!-- Stats Cards -->
-<div style="display: flex; justify-content: center; gap: 20px; margin: 80px 0 40px; flex-wrap: wrap;">
-  <div style="background: white; padding: 20px 30px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); min-width: 200px; text-align: center; border: 1px solid #f0f0f0;">
-    <div style="font-size: 28px; font-weight: 700; color: #1e3c72; margin-bottom: 5px;">3+</div>
-    <div style="color: #666; font-size: 14px; font-weight: 500;">Years Experience</div>
-  </div>
-  <div style="background: white; padding: 20px 30px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); min-width: 200px; text-align: center; border: 1px solid #f0f0f0;">
-    <div style="font-size: 28px; font-weight: 700; color: #1e3c72; margin-bottom: 5px;">15+</div>
-    <div style="color: #666; font-size: 14px; font-weight: 500;">Projects Completed</div>
-  </div>
-  <div style="background: white; padding: 20px 30px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); min-width: 200px; text-align: center; border: 1px solid #f0f0f0;">
-    <div style="font-size: 28px; font-weight: 700; color: #1e3c72; margin-bottom: 5px;">5+</div>
-    <div style="color: #666; font-size: 14px; font-weight: 500;">Certifications</div>
-  </div>
-</div>
+<!-- Banner -->
+<p align="center">
+  <img src="assets/images/banner.svg" alt="Banner" width="100%">
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://github.com/NareshRana1999" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/1e3c72/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://wa.me/916363830414" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/1e3c72/whatsapp.png" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:nareshrana1999@outlook.com">
+    <img src="https://img.icons8.com/ios-filled/40/1e3c72/mail.png" alt="Email"/>
+  </a>
+</p>
+
+## 🚀 About Me
+
+Full Stack Developer | AI/ML Enthusiast | DevOps Engineer
+
+- 💼 3+ years of experience in software development
+- 🛠️ 15+ projects completed
+- 📜 5+ professional certifications
+- 🌱 Currently learning advanced cloud technologies
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.icons8.com/color/40/000000/python.png) ![JavaScript](https://img.icons8.com/color/40/000000/javascript.png) ![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png) ![C++](https://img.icons8.com/color/40/000000/c-plus-plus-logo.png)
+
+### Web Development
+![HTML5](https://img.icons8.com/color/40/000000/html-5.png) ![CSS3](https://img.icons8.com/color/40/000000/css3.png) ![React](https://img.icons8.com/color/40/000000/react-native.png) ![Node.js](https://img.icons8.com/color/40/000000/nodejs.png)
+
+### Database
+![MongoDB](https://img.icons8.com/color/40/000000/mongodb.png) ![MySQL](https://img.icons8.com/color/40/000000/mysql-logo.png) 
+
+### DevOps & Cloud
+![Docker](https://img.icons8.com/color/40/000000/docker.png) ![AWS](https://img.icons8.com/color/40/000000/amazon-web-services.png) ![Git](https://img.icons8.com/color/40/000000/git.png)
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NareshRana1999&theme=default&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
+## 🏆 Projects
+
+[![View All Projects](https://img.icons8.com/ios-filled/20/ffffff/github.png) View All Projects](https://github.com/NareshRana1999?tab=repositories)
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaborations or just a friendly chat!
+
+[![GitHub](https://img.icons8.com/ios-filled/30/1e3c72/github.png)](https://github.com/NareshRana1999) [![WhatsApp](https://img.icons8.com/ios-filled/30/1e3c72/whatsapp.png)](https://wa.me/916363830414) [![Email](https://img.icons8.com/ios-filled/30/1e3c72/mail.png)](mailto:nareshrana1999@outlook.com)
 
 ## 👨‍💻 Professional Summary
 
