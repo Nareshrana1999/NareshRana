@@ -109,8 +109,8 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🎵 Now Playing
 
 <div align="center" style="margin: 20px 0 30px;">
-  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing" />
+  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Now_Playing-1DB954?style=for-the-badge&logo=musical-notes&logoColor=white" alt="Now Playing" />
   </a>
 </div>
 
