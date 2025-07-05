@@ -41,10 +41,10 @@
     <!-- GitHub Streak Stats -->
     <div style="flex: 1; min-width: 280px; max-width: 400px;">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=NareshRana1999&theme=radical&hide_border=true&background=0d1117&stroke=0d47a1&ring=0d47a1&fire=0d47a1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0d47a1&sideLabels=ffffff&dates=ffffff" 
+        src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&background=0D1117&stroke=0D47A1&ring=0D47A1&fire=0D47A1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0D47A1&sideLabels=FFFFFF&dates=FFFFFF" 
         alt="GitHub Streak"
         style="width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
-      >
+      />
     </div>
   </div>
   
