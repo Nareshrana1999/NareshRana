@@ -62,7 +62,6 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -109,7 +108,7 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🎵 Now Playing
 
 <p align="center">
-  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://nareshrana1999.github.io/now-player/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🎵_NOW_PLAYING-1DB954?style=for-the-badge&logo=musical-notes&logoColor=white&logoWidth=30&labelWidth=150&labelColor=1DB954&color=1DB954" alt="Now Playing" style="height: 45px;" />
   </a>
 </p>
