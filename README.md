@@ -109,37 +109,9 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🎵 Now Player
 
 <div align="center">
-  <div style="width: 300px; margin: 0 auto; background: white; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-    <!-- Song Info -->
-    <div style="margin-bottom: 12px;">
-      <div style="font-size: 14px; font-weight: 600; color: #191414; margin-bottom: 2px;">Song Title</div>
-      <div style="font-size: 12px; color: #666;">Artist Name</div>
-    </div>
-    
-    <!-- Progress Bar -->
-    <div style="background: #e9e9e9; height: 4px; border-radius: 2px; margin-bottom: 8px; overflow: hidden;">
-      <div style="width: 45%; height: 100%; background: #1DB954; border-radius: 2px;"></div>
-    </div>
-    
-    <!-- Time -->
-    <div style="display: flex; justify-content: space-between; margin-bottom: 16px;">
-      <span style="font-size: 11px; color: #999;">1:23</span>
-      <span style="font-size: 11px; color: #999;">3:45</span>
-    </div>
-    
-    <!-- Controls -->
-    <div style="display: flex; justify-content: center; gap: 28px; align-items: center;">
-      <span style="color: #666; font-size: 16px; cursor: pointer; opacity: 0.8;">⏮</span>
-      <span style="color: #1DB954; font-size: 22px; cursor: pointer; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; background: #f5f5f5; border-radius: 50%;">▶</span>
-      <span style="color: #666; font-size: 16px; cursor: pointer; opacity: 0.8;">⏭</span>
-    </div>
-  </div>
-  
-  <p style="margin-top: 14px; margin-bottom: 0;">
-    <a href="./now-player" style="color: #1DB954; text-decoration: none; font-size: 13px; font-weight: 500; display: inline-flex; align-items: center; gap: 4px;">
-      Open in Full Player <span style="font-size: 16px;">→</span>
-    </a>
-  </p>
+  <a href="./now-player" style="display: inline-block; padding: 12px 24px; background: #1DB954; color: white; text-decoration: none; border-radius: 30px; font-weight: 600; font-size: 15px; transition: all 0.2s ease; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-shadow: 0 4px 12px rgba(29, 185, 84, 0.2);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(29, 185, 84, 0.25)'" onmouseout="this.style.transform='none'; this.style.boxShadow='0 4px 12px rgba(29, 185, 84, 0.2)'">
+    🎵 Open Now Player
+  </a>
 </div>
 
 ## 💼 Professional Experience
