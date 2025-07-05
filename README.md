@@ -2,6 +2,8 @@
   <h1>Hi there, I'm Naresh Rana 👋</h1>
   <p>Full Stack Developer | AI/ML Enthusiast | DevOps Engineer</p>
   
+  <img src="assets/images/banner.svg" alt="Banner" width="100%"/>
+  
   <p align="center">
     <a href="tel:+916363830414" target="_blank">
       <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
@@ -10,7 +12,7 @@
       <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/Nareshrana1999?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/naresh-rana-1b3b3b1b3/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -33,7 +35,38 @@
 
 Computer Science and Engineering graduate with expertise in Full-stack Development, Artificial Intelligence, Data Science in Machine Learning, and DevOps Development. Skilled in building robust frontend/backend systems, managing SQL/NoSQL databases, Firebase, and integrating AI models.
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -133,7 +166,35 @@ Outdoor sports, trekking, gaming, traveling, motorbiking, movies/series/anime, s
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+Here are some of my notable projects. Click on each card to learn more!
+
+<div align="center">
+
+### Project 1: Project Name
+[![Project 1](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> A brief description of the project and its key features.
+
+### Project 2: Project Name
+[![Project 2](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project2)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+> A brief description of the project and its key features.
+
+### Project 3: Project Name
+[![Project 3](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project3)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> A brief description of the project and its key features.
+
+</div>
+
+---
+
+## 🚀 All Projects
 
 ### Object Detection with YOLOv8
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00f?style=for-the-badge&logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -164,7 +225,9 @@ Outdoor sports, trekking, gaming, traveling, motorbiking, movies/series/anime, s
 - Arduino-based emergency alert system for fishermen
 - Real-time location tracking and communication for distress situations
 
-## 📫 Let's Connect
+## 📫 Get in Touch
+
+I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out to me through any of these channels:
 
 <div align="center">
   <a href="tel:+916363830414" target="_blank">
@@ -173,13 +236,20 @@ Outdoor sports, trekking, gaming, traveling, motorbiking, movies/series/anime, s
   <a href="mailto:nareshrana1999@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Nareshrana1999?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/NareshRana1999?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/naresh-rana-1b3b3b1b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+## 🌟 Support My Work
+
+If you find my work valuable, consider starring ⭐ my repositories or supporting me on:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/yourusername)
 
 ## 🎵 Now Playing
 
