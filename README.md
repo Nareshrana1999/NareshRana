@@ -1,47 +1,51 @@
-# Hi there, I'm Naresh Rana
-
-[![Profile Views](https://komarev.com/ghpvc/?username=NareshRana1999&style=flat-square&color=blue&label=Profile%20Views)](https://github.com/NareshRana1999)
+<!-- Animated Title -->
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=3000&pause=1000&color=1e3c72&center=true&vCenter=true&width=800&lines=👋+Hi+there%2C+I'm+Naresh+Rana+%F0%9F%91%8B;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+DevOps+Engineer" alt="Typing SVG">
+  </h1>
+</div>
 
 <!-- Banner -->
 <p align="center">
   <img src="assets/images/banner.svg" alt="Banner" width="100%">
 </p>
 
-<!-- Social Links -->
-<p align="center">
+<!-- Social Links with Profile View Count -->
+<p align="center" style="margin-top: 20px;">
   <a href="https://github.com/NareshRana1999" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/1e3c72/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://wa.me/916363830414" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/1e3c72/whatsapp.png" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="mailto:nareshrana1999@outlook.com">
-    <img src="https://img.icons8.com/ios-filled/40/1e3c72/mail.png" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
-
-## 🚀 About Me
-
-Full Stack Developer | AI/ML Enthusiast | DevOps Engineer
-
-- 💼 3+ years of experience in software development
-- 🛠️ 15+ projects completed
-- 📜 5+ professional certifications
-- 🌱 Currently learning advanced cloud technologies
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-![Python](https://img.icons8.com/color/40/000000/python.png) ![JavaScript](https://img.icons8.com/color/40/000000/javascript.png) ![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png) ![C++](https://img.icons8.com/color/40/000000/c-plus-plus-logo.png)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 ### Web Development
-![HTML5](https://img.icons8.com/color/40/000000/html-5.png) ![CSS3](https://img.icons8.com/color/40/000000/css3.png) ![React](https://img.icons8.com/color/40/000000/react-native.png) ![Node.js](https://img.icons8.com/color/40/000000/nodejs.png)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ### Database
-![MongoDB](https://img.icons8.com/color/40/000000/mongodb.png) ![MySQL](https://img.icons8.com/color/40/000000/mysql-logo.png) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### DevOps & Cloud
-![Docker](https://img.icons8.com/color/40/000000/docker.png) ![AWS](https://img.icons8.com/color/40/000000/amazon-web-services.png) ![Git](https://img.icons8.com/color/40/000000/git.png)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## 📊 GitHub Stats
 
@@ -49,13 +53,13 @@ Full Stack Developer | AI/ML Enthusiast | DevOps Engineer
 
 ## 🏆 Projects
 
-[![View All Projects](https://img.icons8.com/ios-filled/20/ffffff/github.png) View All Projects](https://github.com/NareshRana1999?tab=repositories)
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NareshRana1999?tab=repositories)
 
 ## 📫 Let's Connect
 
-Feel free to reach out for collaborations or just a friendly chat!
-
-[![GitHub](https://img.icons8.com/ios-filled/30/1e3c72/github.png)](https://github.com/NareshRana1999) [![WhatsApp](https://img.icons8.com/ios-filled/30/1e3c72/whatsapp.png)](https://wa.me/916363830414) [![Email](https://img.icons8.com/ios-filled/30/1e3c72/mail.png)](mailto:nareshrana1999@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NareshRana1999)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916363830414)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nareshrana1999@outlook.com)
 
 ## 👨‍💻 Professional Summary
 
