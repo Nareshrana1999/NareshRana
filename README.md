@@ -109,22 +109,8 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🎵 Now Playing
 
 <div align="center" style="margin: 20px 0 30px;">
-  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" 
-     target="_blank"
-     style="display: inline-flex; 
-            align-items: center; 
-            background: #f6f8fa; 
-            border: 1px solid #d0d7de; 
-            border-radius: 6px; 
-            padding: 5px 12px; 
-            text-decoration: none; 
-            color: #24292f; 
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; 
-            font-size: 13px; 
-            font-weight: 500;
-            transition: all 0.2s ease;">
-    <span style="color: #1DB954; margin-right: 6px;">▶</span>
-    <span>Play Music</span>
+  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing" />
   </a>
 </div>
 
