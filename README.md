@@ -145,42 +145,11 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 <!-- Removed Education and Projects sections as requested -->
 ## 🏆 Certifications & Achievements
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; margin-top: 15px;">
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
-    <div style="background: #6c5ce7; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/color/48/ffffff/machine-learning.png" width="25" alt="ML"/>
-    </div>
-    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Machine Learning</div>
-  </div>
-
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
-    <div style="background: #00b894; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/color/48/ffffff/code.png" width="25" alt="Web Dev"/>
-    </div>
-    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Full Stack Dev</div>
-  </div>
-
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
-    <div style="background: #0984e3; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/color/48/ffffff/cloud.png" width="25" alt="Cloud"/>
-    </div>
-    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Cloud Computing</div>
-  </div>
-
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
-    <div style="background: #fdcb6e; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/color/48/ffffff/python.png" width="25" alt="Python"/>
-    </div>
-    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Python</div>
-  </div>
-
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
-    <div style="background: #e17055; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/color/48/ffffff/tally.png" width="25" alt="Tally"/>
-    </div>
-    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Tally ERP 9</div>
-  </div>
-</div>
+- 💻 Machine Learning
+- 💻 Full Stack Development
+- 💻 Cloud Computing
+- 💻 Python Programming
+- 💻 Tally ERP 9
 
 ---
 
@@ -189,29 +158,4 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 - English (Professional) 🇬🇧
 - Hindi (Native) 🇮🇳
 - Nepali (Native) 🇳🇵
-- Kannada (Fluent) 
-
-## 🎯 Interests
-
-🏕️ Outdoor Sports | 🏔️ Trekking | 🎮 Gaming | ✈️ Traveling | 🏍️ Motorbiking | 🎬 Movies/Series/Anime | 🤝 Social Welfare
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-nareshrana1999@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:nareshrana1999@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/916363830414)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NareshRana1999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](#)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=flat-square&color=blue" alt="Profile Views"/>
-  <p>Thanks for visiting! ❤️</p>
-</div>
-
----
+- Kannada (Fluent)
