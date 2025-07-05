@@ -109,21 +109,9 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🎵 Now Player
 
 <div align="center">
-  <div style="margin-bottom: 8px;">
-    <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank" style="color: #666; text-decoration: none; font-size: 24px;" title="Preview Now Player">
-      ▶️
-    </a>
-  </div>
-  
-  <div>
-    <a href="https://nareshrana1999.github.io/NareshRana/now-player/" style="display: inline-block; padding: 12px 24px; background: #1DB954; color: white; text-decoration: none; border-radius: 30px; font-weight: 600; font-size: 15px; transition: all 0.2s ease; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-shadow: 0 4px 12px rgba(29, 185, 84, 0.2);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(29, 185, 84, 0.25)'" onmouseout="this.style.transform='none'; this.style.boxShadow='0 4px 12px rgba(29, 185, 84, 0.2)'">
-      🎵 Open Now Player
-    </a>
-  </div>
-  
-  <p style="margin-top: 12px; color: #666; font-size: 14px;">
-    Direct link: <a href="https://nareshrana1999.github.io/NareshRana/now-player/" style="color: #1DB954; text-decoration: none;">https://nareshrana1999.github.io/NareshRana/now-player/</a>
-  </p>
+  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #f5f5f5; border-radius: 8px; text-decoration: none; transition: all 0.2s ease;" onmouseover="this.style.background='#e0e0e0'" onmouseout="this.style.background='#f5f5f5'" title="Preview Now Player">
+    <span style="color: #1DB954; font-size: 20px; margin-left: 2px;">▶</span>
+  </a>
 </div>
 
 ## 💼 Professional Experience
