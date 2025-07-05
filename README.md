@@ -108,7 +108,16 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 
 ## 🎵 Now Playing
 
-[![Spotify](https://spotify-now-playing-nu-henna.vercel.app/api/spotify)](https://open.spotify.com/user/31u5yqjq5m5z5wz5q5q5q5q5q5q5q)
+<div align="center">
+  <iframe 
+    src="https://nareshrana1999.github.io/NareshRana/spotify-widget/" 
+    width="300" 
+    height="380" 
+    frameborder="0" 
+    allowtransparency="true" 
+    allow="encrypted-media">
+  </iframe>
+</div>
 
 ## 💼 Professional Experience
 
