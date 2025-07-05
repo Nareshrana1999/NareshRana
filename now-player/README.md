@@ -6,7 +6,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Nareshrana1999/NareshRana?style=social)](https://github.com/Nareshrana1999/NareshRana/stargazers)
 
-[![Try Now](https://img.shields.io/badge/🎧-Try%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954&color=191414)](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)
+
+**[▶️ Try Now (Live Preview)](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)**
 
 ## ✨ Features
 
@@ -22,14 +23,16 @@
 - Additional themes
 - And much more!
 
-[🎧 Try Now](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)
+
+**[▶️ Try Now (Live Preview)](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)**
 
 ## 🚀 Quick Start
 
 ### Option 1: Try Online
 Simply click the button below to try Now Player directly in your browser:
 
-[![Try Now](https://img.shields.io/badge/🎧-Try_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954&color=191414)](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)
+
+**[▶️ Try Now (Live Preview)](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)**
 
 ### Option 2: Run Locally
 1. **Clone the repository**
