@@ -109,11 +109,57 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ## 🎵 Now Playing
 
 <div align="center" style="margin: 20px 0 30px;">
-  <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" target="_blank" style="display: inline-flex; align-items: center; background: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px; padding: 8px 16px; text-decoration: none; color: #24292e; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 14px; line-height: 1.5; transition: all 0.2s ease;" onmouseover="this.style.borderColor='#d1d5da'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.1)';" onmouseout="this.style.borderColor='#e1e4e8'; this.style.boxShadow='none';">
-    <span style="margin-right: 8px; font-size: 16px;">🎵</span>
-    <span>music</span>
-  </a>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html" 
+       target="_blank"
+       style="display: inline-flex; 
+              align-items: center; 
+              background: #f6f8fa; 
+              border: 1px solid #d0d7de; 
+              border-radius: 6px; 
+              padding: 6px 12px; 
+              text-decoration: none; 
+              color: #24292f; 
+              font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; 
+              font-size: 13px; 
+              font-weight: 500;
+              transition: all 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+              box-shadow: 0 1px 0 rgba(31, 35, 40, 0.04);
+              position: relative;
+              overflow: hidden;"
+       onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 1px 0 rgba(31, 35, 40, 0.04)';">
+      <span style="margin-right: 6px; display: flex; align-items: center;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="#1DB954" style="animation: pulse 1.5s infinite;">
+          <path d="M8 5v14l11-7z"/>
+        </svg>
+      </span>
+      <span style="position: relative;">Play Music
+        <span style="position: absolute; bottom: -2px; left: 0; width: 0; height: 1.5px; background: #1DB954; transition: width 0.3s ease;"></span>
+      </span>
+      <span style="margin-left: 6px; opacity: 0.7; font-size: 12px;">▶</span>
+    </a>
+  </div>
 </div>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
+  
+  a:hover span span {
+    width: 100%;
+  }
+  
+  @media (max-width: 768px) {
+    .tech-badge {
+      font-size: 12px;
+      padding: 4px 10px;
+    }
+  }
+</style>
 
 ## 💼 Professional Experience
 
