@@ -108,9 +108,9 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 
 ## 🎵 Now Playing
 
-[![Spotify Now Playing](https://spotify-now-playing-nu-henna.vercel.app/api/spotify?user=31nlfahqmitvn473lhsjenbthtve&random=true)](https://open.spotify.com/user/31nlfahqmitvn473lhsjenbthtve)
+[![Spotify](https://spotify-now-playing-nu-henna.vercel.app/api/spotify?random=true)](https://open.spotify.com/)
 
-<sub>♫ A random song from my library</sub>
+<sub>♫ A random song from Spotify</sub>
 
 ## 💼 Professional Experience
 
