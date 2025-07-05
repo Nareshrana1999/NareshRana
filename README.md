@@ -24,47 +24,32 @@
   <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
 
-<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin: 20px 0;">
-    <!-- GitHub Stats Card -->
-    <div style="flex: 1; min-width: 280px; max-width: 400px;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0d47a1&icon_color=0d47a1&text_color=ffffff" 
-        alt="GitHub Stats" 
-        style="width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
-      >
-    </div>
+  <!-- GitHub Stats Row -->
+  <a href="https://github.com/NareshRana1999">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&bg_color=0d1117&title_color=0d47a1&icon_color=0d47a1&text_color=ffffff&hide_border=true" alt="Naresh's GitHub Stats"/>
     
-    <!-- GitHub Streak Stats -->
-    <div style="flex: 1; min-width: 280px; max-width: 400px;">
-      <img 
-        src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&background=0D1117&stroke=0D47A1&ring=0D47A1&fire=0D47A1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0D47A1&sideLabels=FFFFFF&dates=FFFFFF" 
-        alt="GitHub Streak"
-        style="width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
-      />
-    </div>
-  </div>
+    <img height="180em" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&background=0D1117&stroke=0D47A1&ring=0D47A1&fire=0D47A1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0D47A1&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+  </a>
   
   <!-- Top Languages -->
-  <div style="margin: 20px 0;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0d47a1&text_color=ffffff" 
-      alt="Top Languages"
-      style="width: 90%; max-width: 800px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
-    >
-  </div>
+  <a href="https://github.com/NareshRana1999">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&bg_color=0d1117&title_color=0d47a1&text_color=ffffff&hide_border=true" alt="Top Languages"/>
+  </a>
   
-  <!-- GitHub Trophy -->
-  <div style="margin: 20px 0;">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&row=1&column=7" 
-      alt="GitHub Trophies"
-      style="width: 100%; max-width: 800px; border-radius: 10px;"
-    >
-  </div>
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/NareshRana1999">
+    <img src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/NareshRana1999/github-readme-activity-graph">
+    <img alt="Naresh's Activity Graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&bg_color=0d1117&color=ffffff&line=0d47a1&point=ffffff&area=true&hide_border=true"/>
+  </a>
+  
 </div>
 
 ## 👨‍💻 Professional Summary
