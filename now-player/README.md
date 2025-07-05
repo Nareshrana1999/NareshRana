@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🎵 Now Player
 
 *A beautiful, responsive music player for the web*
@@ -10,49 +8,21 @@
 
 [![Try Now](https://img.shields.io/badge/🎧-Try%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954&color=191414)](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)
 
-</div>
-
 ## ✨ Features
 
-🎯 **Intuitive Controls** - Play, pause, skip, and go back to previous songs with ease  
-🎨 **Modern UI** - Clean, responsive design that works on all devices  
-⏱️ **Progress Tracking** - Visual progress bar with current time and duration  
-🔊 **High Quality** - Crystal clear audio playback  
-🌓 **Dark/Light Mode** - Automatically adapts to your system preferences
+- 🎵 **Music Playback** - Play your favorite tracks with ease
+- 🎛️ **Simple Controls** - Intuitive play, pause, skip, and previous
+- 📱 **Responsive Design** - Works on all devices
+- 🎨 **Clean Interface** - Focus on what matters: your music
 
-## 🎧 Player Preview
+## 🔄 Coming Soon
 
-<div align="center">
+- More customization options
+- Playlist support
+- Additional themes
+- And much more!
 
-![Now Playing Badge](https://img.shields.io/badge/🔊_Now_Playing-Random_Song-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-
-```
-┌─────────────────────────────────────────────────────┐
-│  ╭─────────────────────────────────────────────╮   │
-│  │                                             │   │
-│  │  ┌─────────────────┐  ┌──────────────────┐ │   │
-│  │  │                 │  │ Random Song Title │ │   │
-│  │  │       🎵        │  │ Various Artists   │ │   │
-│  │  │                 │  └──────────────────┘ │   │
-│  │  └─────────────────┘                       │   │
-│  │                                             │   │
-│  │  ┌───────────────────────────────────────┐  │   │
-│  │  │ ████████████████████░░░░░░░░░░░░░░░░░ │  │   │
-│  │  └───────────────────────────────────────┘  │   │
-│  │  1:23                             3:45     │   │
-│  │                                             │   │
-│  │  ╭────────╮  ╭─────────────╮  ╭────────╮   │   │
-│  │  │  ⏮️   │  │     ▶️     │  │  ⏭️   │   │   │
-│  │  ╰────────╯  ╰─────────────╯  ╰────────╯   │   │
-│  │                                             │   │
-│  ╰─────────────────────────────────────────────╯   │
-│                                                   │
-└───────────────────────────────────────────────────┘
-```
-
-*This is a visual preview. [Click here](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html) to try the actual player!*
-
-</div>
+[🎧 Try Now](https://htmlpreview.github.io/?https://github.com/Nareshrana1999/NareshRana/blob/main/now-player/index.html)
 
 ## 🚀 Quick Start
 
