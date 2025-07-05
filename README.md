@@ -106,7 +106,7 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 🎵 Now Playing
+## 🎵 Now Player - Modern Music Player
 
 <div align="center" style="margin: 20px 0 30px 0;">
   <a href="./now-player" style="text-decoration: none;">
@@ -132,13 +132,59 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
       </div>
     </div>
   </a>
-  
-  <div style="margin-top: 15px; font-size: 13px; color: #666; max-width: 500px; margin-left: auto; margin-right: auto; line-height: 1.5;">
-    <p>🎧 <strong>Now Player</strong> - A modern music player for your local music collection. Features include play/pause controls, track navigation, and a beautiful interface.</p>
-  </div>
 </div>
 
+### 🎧 Features
 
+- 🎵 **Automatic Music Loading**: Scans and loads music from the `/music` folder
+- ⏯️ **Playback Controls**: Play, pause, next, and previous track navigation
+- 🎨 **Modern UI**: Clean, responsive design with smooth animations
+- ⏱️ **Progress Tracking**: Visual progress bar with seek functionality
+- 🎚️ **Volume Control**: Adjustable volume with visual feedback
+- ⌨️ **Keyboard Shortcuts**: Control playback with keyboard shortcuts
+- 📱 **Responsive Design**: Works on all device sizes
+
+### 🚀 Quick Start
+
+1. Clone this repository
+2. Add your music files to the `now-player/music` folder
+3. Open `now-player/index.html` in a web browser
+4. The player will automatically load and play your music
+
+### 📁 Project Structure
+
+```
+now-player/
+├── index.html          # Main HTML file
+├── style.css           # Player styles and animations
+├── script.js           # Player functionality and controls
+├── README.md           # Detailed documentation
+└── music/              # Directory for your music files
+    ├── song1.mp3
+    ├── song2.mp3
+    └── ...
+```
+
+### 🎛️ Keyboard Shortcuts
+
+| Key | Action |
+|-----|--------|
+| Space | Play/Pause |
+| → | Next Track |
+| ← | Previous Track |
+| ↑ | Increase Volume |
+| ↓ | Decrease Volume |
+| M | Mute/Unmute |
+
+### 🔗 [Open Now Player](./now-player)
+
+<div align="center" style="margin: 15px 0;">
+  <a href="./now-player" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Open_Now_Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open Now Player">
+  </a>
+</div>
+
+ 
 
 ## 💼 Professional Experience
 
