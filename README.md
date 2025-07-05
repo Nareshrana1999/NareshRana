@@ -145,95 +145,40 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 <!-- Removed Education and Projects sections as requested -->
 ## 🏆 Certifications & Achievements
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
-  <!-- ML Certification -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); border-radius: 12px; padding: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; border-left: 4px solid #6c5ce7;">
-    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-      <div style="background: #6c5ce7; width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.icons8.com/color/48/ffffff/machine-learning.png" width="30" alt="ML"/>
-      </div>
-      <div>
-        <h3 style="margin: 0; color: #2d3436; font-size: 1.2em;">Machine Learning</h3>
-        <p style="margin: 5px 0 0; color: #636e72; font-size: 0.9em;">Issued: 2023</p>
-      </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; margin-top: 15px;">
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
+    <div style="background: #6c5ce7; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+      <img src="https://img.icons8.com/color/48/ffffff/machine-learning.png" width="25" alt="ML"/>
     </div>
-    <p style="color: #636e72; margin-bottom: 15px; line-height: 1.5;">Comprehensive training in machine learning algorithms, data preprocessing, model evaluation, and deployment.</p>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <span style="background: #e8e5ff; color: #6c5ce7; padding: 4px 12px; border-radius: 20px; font-size: 0.8em; font-weight: 500;">SkillDzire</span>
-      <a href="#" style="color: #6c5ce7; text-decoration: none; font-weight: 500; font-size: 0.9em;">View Credential</a>
-    </div>
+    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Machine Learning</div>
   </div>
-  
-  <!-- AI DevOps Certification -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); border-radius: 12px; padding: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; border-left: 4px solid #00b894;">
-    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-      <div style="background: #00b894; width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.icons8.com/color/48/ffffff/artificial-intelligence.png" width="30" alt="AI"/>
-      </div>
-      <div>
-        <h3 style="margin: 0; color: #2d3436; font-size: 1.2em;">AI - DevOps Engineer</h3>
-        <p style="margin: 5px 0 0; color: #636e72; font-size: 0.9em;">Issued: 2024</p>
-      </div>
+
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
+    <div style="background: #00b894; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+      <img src="https://img.icons8.com/color/48/ffffff/code.png" width="25" alt="Web Dev"/>
     </div>
-    <p style="color: #636e72; margin-bottom: 15px; line-height: 1.5;">Professional certification in deploying and managing AI models in production environments using DevOps practices.</p>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <span style="background: #d1f2eb; color: #00b894; padding: 4px 12px; border-radius: 20px; font-size: 0.8em; font-weight: 500;">Aitch Nu Global</span>
-      <a href="#" style="color: #00b894; text-decoration: none; font-weight: 500; font-size: 0.9em;">View Credential</a>
-    </div>
+    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Full Stack Dev</div>
   </div>
-  
-  <!-- Fiber Optics Certification -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); border-radius: 12px; padding: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; border-left: 4px solid #0984e3;">
-    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-      <div style="background: #0984e3; width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.icons8.com/color/48/ffffff/fiber-optics.png" width="30" alt="Fiber Optics"/>
-      </div>
-      <div>
-        <h3 style="margin: 0; color: #2d3436; font-size: 1.2em;">Fiber Optic Communication</h3>
-        <p style="margin: 5px 0 0; color: #636e72; font-size: 0.9em;">Issued: 2019</p>
-      </div>
+
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
+    <div style="background: #0984e3; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+      <img src="https://img.icons8.com/color/48/ffffff/cloud.png" width="25" alt="Cloud"/>
     </div>
-    <p style="color: #636e72; margin-bottom: 15px; line-height: 1.5;">Technical training in fiber optic communication systems, installation, and maintenance.</p>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <span style="background: #d0ebff; color: #0984e3; padding: 4px 12px; border-radius: 20px; font-size: 0.8em; font-weight: 500;">Skill India</span>
-      <a href="#" style="color: #0984e3; text-decoration: none; font-weight: 500; font-size: 0.9em;">View Credential</a>
-    </div>
+    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Cloud Computing</div>
   </div>
-  
-  <!-- Tally ERP Certification -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); border-radius: 12px; padding: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; border-left: 4px solid #e17055;">
-    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-      <div style="background: #e17055; width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.icons8.com/color/48/ffffff/tally.png" width="30" alt="Tally"/>
-      </div>
-      <div>
-        <h3 style="margin: 0; color: #2d3436; font-size: 1.2em;">Tally ERP 9</h3>
-        <p style="margin: 5px 0 0; color: #636e72; font-size: 0.9em;">Issued: 2020</p>
-      </div>
+
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
+    <div style="background: #fdcb6e; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+      <img src="https://img.icons8.com/color/48/ffffff/python.png" width="25" alt="Python"/>
     </div>
-    <p style="color: #636e72; margin-bottom: 15px; line-height: 1.5;">Professional certification in Tally ERP 9 including accounting, inventory, and GST management.</p>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <span style="background: #ffebee; color: #e17055; padding: 4px 12px; border-radius: 20px; font-size: 0.8em; font-weight: 500;">Certified Professional</span>
-      <a href="#" style="color: #e17055; text-decoration: none; font-weight: 500; font-size: 0.9em;">View Credential</a>
-    </div>
+    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Python</div>
   </div>
-  
-  <!-- MS Office Certification -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); border-radius: 12px; padding: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; border-left: 4px solid #6c5ce7;">
-    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-      <div style="background: #6c5ce7; width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://img.icons8.com/color/48/ffffff/ms-excel.png" width="30" alt="MS Office"/>
-      </div>
-      <div>
-        <h3 style="margin: 0; color: #2d3436; font-size: 1.2em;">Computer Applications</h3>
-        <p style="margin: 5px 0 0; color: #636e72; font-size: 0.9em;">Issued: 2018</p>
-      </div>
+
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; text-align: center; transition: transform 0.2s ease;">
+    <div style="background: #e17055; width: 50px; height: 50px; border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+      <img src="https://img.icons8.com/color/48/ffffff/tally.png" width="25" alt="Tally"/>
     </div>
-    <p style="color: #636e72; margin-bottom: 15px; line-height: 1.5;">Certification in computer application basics including MS Office Suite (Word, Excel, PowerPoint).</p>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <span style="background: #e8e5ff; color: #6c5ce7; padding: 4px 12px; border-radius: 20px; font-size: 0.8em; font-weight: 500;">MS Office Specialist</span>
-      <a href="#" style="color: #6c5ce7; text-decoration: none; font-weight: 500; font-size: 0.9em;">View Credential</a>
-    </div>
+    <div style="font-weight: 600; color: #2d3436; font-size: 0.9em;">Tally ERP 9</div>
   </div>
 </div>
 
