@@ -1,63 +1,66 @@
-# 👋 Hello, I'm Naresh Rana
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/NareshRana1999)
-[![Outlook](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:nareshrana1999@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/916363830414)
-
-<!-- Custom Banner -->
-<div align="center" style="margin-bottom: 30px;">
-  <img src="assets/images/banner.svg" alt="Naresh Rana - Full Stack Developer" style="max-width: 100%; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);"/>
+<!-- Animated Text -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=42&duration=3000&pause=1000&color=1e3c72&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Naresh+Rana;Full+Stack+Developer;AI%2FML+Enthusiast;DevOps+Engineer" alt="Typing SVG"/>
 </div>
 
-<!-- Header Section -->
-<div align="center" style="position: relative; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-bottom: 30px; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 30px 20px; border-radius: 15px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=42&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Naresh+Rana;Full+Stack+Developer;AI%2FML+Enthusiast;DevOps+Engineer" alt="Typing SVG" style="margin-bottom: 20px;" />
-    
-    <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
-      <a href="https://github.com/NareshRana1999" target="_blank" style="text-decoration: none;">
-        <div style="background: rgba(255,255,255,0.1); padding: 10px 20px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
-          <img src="https://img.icons8.com/ios-filled/24/ffffff/github.png" width="20" alt="GitHub"/>
-          <span style="color: white; font-weight: 500;">GitHub</span>
-        </div>
-      </a>
-      <a href="https://wa.me/916363830414" target="_blank" style="text-decoration: none;">
-        <div style="background: rgba(255,255,255,0.1); padding: 10px 20px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
-          <img src="https://img.icons8.com/ios-filled/24/ffffff/whatsapp.png" width="20" alt="WhatsApp"/>
-          <span style="color: white; font-weight: 500;">+91 6363830414</span>
-        </div>
-      </a>
-      <a href="mailto:nareshrana1999@outlook.com" style="text-decoration: none;">
-        <div style="background: rgba(255,255,255,0.1); padding: 10px 20px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
-          <img src="https://img.icons8.com/ios-filled/24/ffffff/mail.png" width="20" alt="Email"/>
-          <span style="color: white; font-weight: 500;">nareshrana1999@outlook.com</span>
-        </div>
-      </a>
-    </div>
-    
-    <div style="display: flex; justify-content: center; gap: 15px;">
-      <a href="https://github.com/NareshRana1999?tab=repositories" target="_blank" style="text-decoration: none;">
-        <div style="background: #4CAF50; padding: 12px 25px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
-          <span style="color: white; font-weight: 600;">View My Work</span>
-          <img src="https://img.icons8.com/ios-filled/20/ffffff/external-link.png" width="16" alt="View Work"/>
-        </div>
-      </a>
+<!-- Custom Banner -->
+<div align="center" style="position: relative; margin-bottom: 40px;">
+  <img src="assets/images/banner.svg" alt="Naresh Rana - Full Stack Developer" style="max-width: 100%; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);"/>
+  
+  <!-- Social Links at Bottom of Banner -->
+  <div style="position: absolute; bottom: -60px; left: 0; right: 0; margin: 0 auto; max-width: 800px;">
+    <div style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.1);">
+      <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px; flex-wrap: wrap;">
+        <a href="https://github.com/NareshRana1999" target="_blank" style="text-decoration: none;">
+          <div style="background: #f5f5f5; padding: 10px 20px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #e0e0e0;">
+            <img src="https://img.icons8.com/ios-filled/24/333333/github.png" width="18" alt="GitHub"/>
+            <span style="color: #333; font-weight: 500;">GitHub</span>
+          </div>
+        </a>
+        <a href="https://wa.me/916363830414" target="_blank" style="text-decoration: none;">
+          <div style="background: #f5f5f5; padding: 10px 20px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #e0e0e0;">
+            <img src="https://img.icons8.com/ios-filled/24/333333/whatsapp.png" width="18" alt="WhatsApp"/>
+            <span style="color: #333; font-weight: 500;">+91 6363830414</span>
+          </div>
+        </a>
+        <a href="mailto:nareshrana1999@outlook.com" style="text-decoration: none;">
+          <div style="background: #f5f5f5; padding: 10px 20px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #e0e0e0;">
+            <img src="https://img.icons8.com/ios-filled/24/333333/mail.png" width="18" alt="Email"/>
+            <span style="color: #333; font-weight: 500;">nareshrana1999@outlook.com</span>
+          </div>
+        </a>
+      </div>
+      
+      <div style="display: flex; justify-content: center; gap: 15px;">
+        <a href="https://github.com/NareshRana1999?tab=repositories" target="_blank" style="text-decoration: none;">
+          <div style="background: #4CAF50; padding: 10px 25px; border-radius: 30px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
+            <span style="color: white; font-weight: 600;">View My Work</span>
+            <img src="https://img.icons8.com/ios-filled/20/ffffff/external-link.png" width="14" alt="View Work"/>
+          </div>
+        </a>
+      </div>
+      
+      <!-- View Count -->
+      <div style="text-align: center; margin-top: 15px;">
+        <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=flat-square&color=blue" alt="Profile views"/>
+      </div>
     </div>
   </div>
-  
-  <!-- Stats Cards -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 30px; flex-wrap: wrap;">
-    <div style="background: white; padding: 15px 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); min-width: 200px; text-align: center;">
-      <div style="font-size: 24px; font-weight: 700; color: #2a5298;">3+</div>
-      <div style="color: #666; font-size: 14px;">Years Experience</div>
-    </div>
-    <div style="background: white; padding: 15px 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); min-width: 200px; text-align: center;">
-      <div style="font-size: 24px; font-weight: 700; color: #2a5298;">15+</div>
-      <div style="color: #666; font-size: 14px;">Projects Completed</div>
-    </div>
-    <div style="background: white; padding: 15px 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); min-width: 200px; text-align: center;">
-      <div style="font-size: 24px; font-weight: 700; color: #2a5298;">5+</div>
-      <div style="color: #666; font-size: 14px;">Certifications</div>
-    </div>
+</div>
+
+<!-- Stats Cards -->
+<div style="display: flex; justify-content: center; gap: 20px; margin: 80px 0 40px; flex-wrap: wrap;">
+  <div style="background: white; padding: 20px 30px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); min-width: 200px; text-align: center; border: 1px solid #f0f0f0;">
+    <div style="font-size: 28px; font-weight: 700; color: #1e3c72; margin-bottom: 5px;">3+</div>
+    <div style="color: #666; font-size: 14px; font-weight: 500;">Years Experience</div>
+  </div>
+  <div style="background: white; padding: 20px 30px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); min-width: 200px; text-align: center; border: 1px solid #f0f0f0;">
+    <div style="font-size: 28px; font-weight: 700; color: #1e3c72; margin-bottom: 5px;">15+</div>
+    <div style="color: #666; font-size: 14px; font-weight: 500;">Projects Completed</div>
+  </div>
+  <div style="background: white; padding: 20px 30px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); min-width: 200px; text-align: center; border: 1px solid #f0f0f0;">
+    <div style="font-size: 28px; font-weight: 700; color: #1e3c72; margin-bottom: 5px;">5+</div>
+    <div style="color: #666; font-size: 14px; font-weight: 500;">Certifications</div>
   </div>
 </div>
 
@@ -244,7 +247,9 @@ Collection of classic and modern browser-based games
 
 ---
 
-## 🚀 Featured Projects
+<!-- Removed Featured Projects section as requested -->
+
+## 🚀 Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin-top: 30px;">
   <!-- Poker Game Project -->
@@ -326,6 +331,8 @@ Collection of classic and modern browser-based games
     </div>
   </a>
 </div>
+
+<!-- Removed duplicate sections as requested -->
 
 ## 🏆 Certifications & Achievements
 
