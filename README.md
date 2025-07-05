@@ -108,16 +108,9 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 
 ## 🎵 Now Playing
 
-<div align="center">
-  <iframe 
-    src="https://nareshrana1999.github.io/NareshRana/spotify-widget/" 
-    width="300" 
-    height="380" 
-    frameborder="0" 
-    allowtransparency="true" 
-    allow="encrypted-media">
-  </iframe>
-</div>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31nlfahqmitvn473lhsjenbthtve)
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31nlfahqmitvn473lhsjenbthtve&count=1&width=400&unique=true)](https://open.spotify.com/user/31nlfahqmitvn473lhsjenbthtve)
 
 ## 💼 Professional Experience
 
