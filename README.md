@@ -30,24 +30,27 @@
   
   <!-- GitHub Stats Row -->
   <a href="https://github.com/NareshRana1999">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&bg_color=0d1117&title_color=0d47a1&icon_color=0d47a1&text_color=ffffff&hide_border=true" alt="Naresh's GitHub Stats"/>
-    
-    <img height="180em" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&background=0D1117&stroke=0D47A1&ring=0D47A1&fire=0D47A1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0D47A1&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NareshRana1999&show_icons=true&theme=radical&bg_color=0d1117&title_color=0d47a1&icon_color=0d47a1&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&custom_title=Naresh's%20GitHub%20Stats" alt="Naresh's GitHub Stats" />
   </a>
   
   <!-- Top Languages -->
   <a href="https://github.com/NareshRana1999">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&bg_color=0d1117&title_color=0d47a1&text_color=ffffff&hide_border=true" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshRana1999&layout=compact&theme=radical&bg_color=0d1117&title_color=0d47a1&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  </a>
+  
+  <!-- GitHub Streak -->
+  <a href="https://github.com/NareshRana1999">
+    <img align="center" src="https://streak-stats.demolab.com?user=NareshRana1999&theme=radical&hide_border=true&background=0D1117&stroke=0D47A1&ring=0D47A1&fire=0D47A1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0D47A1&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
   </a>
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/NareshRana1999">
-    <img src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=NareshRana1999&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
   
   <!-- Activity Graph -->
   <a href="https://github.com/NareshRana1999/github-readme-activity-graph">
-    <img alt="Naresh's Activity Graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&bg_color=0d1117&color=ffffff&line=0d47a1&point=ffffff&area=true&hide_border=true"/>
+    <img alt="Naresh's Activity Graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NareshRana1999&bg_color=0d1117&color=ffffff&line=0d47a1&point=ffffff&area=true&hide_border=true" />
   </a>
   
 </div>
