@@ -108,50 +108,30 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 
 ## 🎵 Now Playing
 
-<div align="center">
-  <div>
-    <svg width="300" height="30" viewBox="0 0 300 30" xmlns="http://www.w3.org/2000/svg">
-      <!-- Equalizer bars -->
-      <rect x="10" y="20" width="10" height="10" fill="#4CAF50">
-        <animate attributeName="height" values="10;20;10" dur="1s" repeatCount="indefinite" />
-        <animate attributeName="y" values="20;10;20" dur="1s" repeatCount="indefinite" />
-      </rect>
-      <rect x="30" y="15" width="10" height="15" fill="#4CAF50">
-        <animate attributeName="height" values="15;25;15" dur="1.2s" repeatCount="indefinite" />
-        <animate attributeName="y" values="15;5;15" dur="1.2s" repeatCount="indefinite" />
-      </rect>
-      <rect x="50" y="10" width="10" height="20" fill="#4CAF50">
-        <animate attributeName="height" values="20;30;20" dur="0.8s" repeatCount="indefinite" />
-        <animate attributeName="y" values="10;0;10" dur="0.8s" repeatCount="indefinite" />
-      </rect>
-      <rect x="70" y="15" width="10" height="15" fill="#4CAF50">
-        <animate attributeName="height" values="15;25;15" dur="1.1s" repeatCount="indefinite" />
-        <animate attributeName="y" values="15;5;15" dur="1.1s" repeatCount="indefinite" />
-      </rect>
-      <rect x="90" y="20" width="10" height="10" fill="#4CAF50">
-        <animate attributeName="height" values="10;20;10" dur="0.9s" repeatCount="indefinite" />
-        <animate attributeName="y" values="20;10;20" dur="0.9s" repeatCount="indefinite" />
-      </rect>
-    </svg>
+<div align="center" style="margin: 10px 0 20px 0;">
+  <div style="display: flex; justify-content: center; align-items: flex-end; height: 40px; margin-bottom: 8px;">
+    <div style="width: 10px; height: 20px; background: #4CAF50; margin: 0 3px; animation: equalize 1.5s ease-in-out infinite alternate;"></div>
+    <div style="width: 10px; height: 30px; background: #4CAF50; margin: 0 3px; animation: equalize 1.2s ease-in-out infinite alternate-reverse;"></div>
+    <div style="width: 10px; height: 25px; background: #4CAF50; margin: 0 3px; animation: equalize 1.7s ease-in-out infinite alternate;"></div>
+    <div style="width: 10px; height: 35px; background: #4CAF50; margin: 0 3px; animation: equalize 1.3s ease-in-out infinite alternate-reverse;"></div>
+    <div style="width: 10px; height: 20px; background: #4CAF50; margin: 0 3px; animation: equalize 1.6s ease-in-out infinite alternate;"></div>
   </div>
   
-  <p>
-    <a href="https://open.spotify.com/random" target="_blank" style="text-decoration: none;">
-      <span style="font-weight: bold;">🎵 Now Playing:</span>
-      <span id="song-title" style="color: #4CAF50;">Loading song...</span>
-    </a>
-  </p>
+  <a href="https://open.spotify.com/random" target="_blank" style="text-decoration: none; color: #333; font-size: 15px; font-weight: 500; display: inline-block; margin: 5px 0; padding: 5px 15px; border-radius: 15px; background: #f5f5f5; transition: all 0.3s ease;">
+    🎵 Discover Random Song
+  </a>
   
-  <div style="font-size: 12px; color: #666; margin-top: 5px;">
-    Click to discover a new random song
+  <div style="font-size: 11px; color: #777; margin-top: 5px;">
+    Click to explore new music
   </div>
 </div>
 
-<!-- Note: The song title will be randomly selected by GitHub's markdown renderer on each page load -->
-<script>
-// This script won't run in GitHub README, but we'll use it as a comment to explain the functionality
-// In a real implementation, this would be handled by a GitHub Action or similar
-</script>
+<style>
+  @keyframes equalize {
+    0% { height: 10px; }
+    100% { height: 40px; }
+  }
+</style>
 
 
 
