@@ -1,40 +1,44 @@
-<div align="center">
-  <!-- Animated Typing Intro -->
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Naresh+Rana+%F0%9F%91%8B;Full+Stack+Developer;AI%2FML+Enthusiast;DevOps+Engineer" alt="Typing SVG" />
-    </a>
-  </div>
+<!-- Header with Animated Typing -->
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <div style="margin: 2rem 0;">
+    <div style="font-size: 2.5rem; font-weight: 700; margin-bottom: 1rem; background: linear-gradient(90deg, #3B82F6, #8B5CF6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      <span class="typing-text">Hi, I'm Naresh Rana</span>
+      <span class="wave">👋</span>
+    </div>
+    <div style="font-size: 1.25rem; color: #6B7280; margin-bottom: 1.5rem; max-width: 800px; line-height: 1.6;">
+      Full Stack Developer | AI/ML Enthusiast | DevOps Engineer
+    </div>
   
-  <img src="assets/images/banner.svg" alt="Banner" width="100%" style="border-radius: 12px; margin: 10px 0;"/>
-  
-  <!-- Contact Badges -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-    <a href="https://wa.me/916363830414" target="_blank" style="text-decoration: none;">
-      <div style="background: #25D366; color: white; padding: 8px 16px; border-radius: 25px; display: flex; align-items: center; gap: 8px;">
-        <i class="fab fa-whatsapp"></i>
-        <span>Chat on WhatsApp</span>
-      </div>
-    </a>
-    <a href="mailto:nareshrana1999@outlook.com" target="_blank" style="text-decoration: none;">
-      <div style="background: #0078D4; color: white; padding: 8px 16px; border-radius: 25px; display: flex; align-items: center; gap: 8px;">
-        <i class="fas fa-envelope"></i>
-        <span>Email Me</span>
-      </div>
-    </a>
-    <a href="https://github.com/NareshRana1999" target="_blank" style="text-decoration: none;">
-      <div style="background: #333; color: white; padding: 8px 16px; border-radius: 25px; display: flex; align-items: center; gap: 8px;">
-        <i class="fab fa-github"></i>
-        <span>My Portfolio</span>
-      </div>
-    </a>
-    <a href="https://www.linkedin.com/in/naresh-rana-1b3b3b1b3/" target="_blank" style="text-decoration: none;">
-      <div style="background: #0077B5; color: white; padding: 8px 16px; border-radius: 25px; display: flex; align-items: center; gap: 8px;">
-        <i class="fab fa-linkedin"></i>
-        <span>Connect on LinkedIn</span>
-      </div>
-    </a>
-  </div>
+    <!-- Profile Banner -->
+    <img src="assets/images/banner.svg" alt="Banner" width="100%" style="border-radius: 12px; margin: 1rem 0; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);"/>
+    
+    <!-- Contact Buttons -->
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0.75rem; margin: 1.5rem 0;">
+      <a href="https://wa.me/916363830414" target="_blank" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; gap: 0.5rem; background: #25D366; color: white; border: none; border-radius: 6px; padding: 0.5rem 1.25rem; font-size: 0.95rem; font-weight: 500; cursor: pointer; transition: all 0.2s ease; box-shadow: 0 2px 8px rgba(37, 211, 102, 0.3);">
+          <i class="fab fa-whatsapp"></i>
+          <span>WhatsApp</span>
+        </button>
+      </a>
+      <a href="mailto:nareshrana1999@outlook.com" target="_blank" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; gap: 0.5rem; background: #0078D4; color: white; border: none; border-radius: 6px; padding: 0.5rem 1.25rem; font-size: 0.95rem; font-weight: 500; cursor: pointer; transition: all 0.2s ease; box-shadow: 0 2px 8px rgba(0, 120, 212, 0.3);">
+          <i class="fas fa-envelope"></i>
+          <span>Email</span>
+        </button>
+      </a>
+      <a href="https://github.com/NareshRana1999" target="_blank" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; gap: 0.5rem; background: #1F2937; color: white; border: none; border-radius: 6px; padding: 0.5rem 1.25rem; font-size: 0.95rem; font-weight: 500; cursor: pointer; transition: all 0.2s ease; box-shadow: 0 2px 8px rgba(31, 41, 55, 0.3);">
+          <i class="fab fa-github"></i>
+          <span>GitHub</span>
+        </button>
+      </a>
+      <a href="https://www.linkedin.com/in/naresh-rana-1b3b3b1b3/" target="_blank" style="text-decoration: none;">
+        <button style="display: flex; align-items: center; gap: 0.5rem; background: #0A66C2; color: white; border: none; border-radius: 6px; padding: 0.5rem 1.25rem; font-size: 0.95rem; font-weight: 500; cursor: pointer; transition: all 0.2s ease; box-shadow: 0 2px 8px rgba(10, 102, 194, 0.3);">
+          <i class="fab fa-linkedin-in"></i>
+          <span>LinkedIn</span>
+        </button>
+      </a>
+    </div>
   
   <div style="background: rgba(56, 189, 248, 0.1); display: inline-block; padding: 5px 15px; border-radius: 20px; margin: 10px 0;">
     <span style="color: #38BDF8;">👁️ Profile Views: </span>
@@ -42,21 +46,67 @@
   </div>
   
   <!-- Spotify Player -->
-  <div style="background: rgba(255, 255, 255, 0.05); border-radius: 15px; padding: 20px; margin: 25px 0; text-align: left;">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
-      <div style="width: 40px; height: 40px; background: #1DB954; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-        <i class="fab fa-spotify" style="color: white; font-size: 20px;"></i>
+  <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin: 2rem 0;">
+    <!-- Profile Views -->
+    <div style="flex: 1; min-width: 200px; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: 12px; padding: 1.25rem; display: flex; align-items: center; gap: 1rem; transition: all 0.3s ease;">
+      <div style="width: 48px; height: 48px; background: rgba(124, 58, 237, 0.1); border-radius: 10px; display: flex; align-items: center; justify-content: center;">
+        <i class="fas fa-eye" style="color: #7C3AED; font-size: 1.25rem;"></i>
       </div>
-      <h3 style="margin: 0; color: #1DB954;">Now Playing</h3>
+      <div>
+        <div style="font-size: 1.5rem; font-weight: 700; color: #F3F4F6;">
+          <span class="counter" data-target="1000">0</span>+
+        </div>
+        <div style="font-size: 0.875rem; color: #9CA3AF; margin-top: 0.25rem;">Profile Views</div>
+      </div>
     </div>
-    <iframe src="https://spotify-github-profile.vercel.app/api/view?uid=31nlfahqmitvn473lhsjenbthtve&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1DB954&bar_color_cover=false" 
-            width="100%" 
-            height="100" 
-            frameBorder="0" 
-            allowtransparency="true" 
-            allow="encrypted-media"
-            style="border-radius: 8px; border: 1px solid #333;">
-    </iframe>
+    
+    <!-- Spotify Player -->
+    <div style="flex: 2; min-width: 300px; background: rgba(29, 185, 84, 0.05); border: 1px solid rgba(29, 185, 84, 0.1); border-radius: 12px; padding: 1.25rem; transition: all 0.3s ease;">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem;">
+        <div style="display: flex; align-items: center; gap: 0.75rem;">
+          <div style="width: 20px; height: 20px; background: #1DB954; border-radius: 4px; display: flex; align-items: center; justify-content: center;">
+            <i class="fab fa-spotify" style="color: white; font-size: 0.75rem;"></i>
+          </div>
+          <h3 style="margin: 0; font-size: 1rem; color: #1DB954; font-weight: 600;">Now Playing</h3>
+        </div>
+        <div style="font-size: 0.75rem; color: #9CA3AF; display: flex; align-items: center; gap: 0.25rem;">
+          <i class="fas fa-headphones"></i>
+          <span>Spotify</span>
+        </div>
+      </div>
+      
+      <div style="display: flex; align-items: center; gap: 1rem;">
+        <img src="https://i.scdn.co/image/ab67616d0000b273f3ea9db6f063f9b72c4b83f5" alt="Album Art" width="60" height="60" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);"/>
+        <div style="flex: 1; min-width: 0;">
+          <p style="margin: 0; font-weight: 600; color: #F9FAFB; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Blinding Lights</p>
+          <p style="margin: 0.25rem 0 0 0; font-size: 0.875rem; color: #9CA3AF;">The Weeknd</p>
+          
+          <div style="margin-top: 0.75rem; position: relative;">
+            <div style="height: 4px; background: rgba(255, 255, 255, 0.1); border-radius: 2px; overflow: hidden;">
+              <div style="width: 45%; height: 100%; background: #1DB954; border-radius: 2px; position: relative; overflow: hidden;">
+                <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent); animation: shimmer 2s infinite;"></div>
+              </div>
+            </div>
+            <div style="display: flex; justify-content: space-between; margin-top: 0.5rem;">
+              <span style="font-size: 0.7rem; color: #6B7280;">1:23</span>
+              <span style="font-size: 0.7rem; color: #6B7280;">3:45</span>
+            </div>
+          </div>
+        </div>
+        
+        <div style="display: flex; gap: 0.5rem;">
+          <button style="background: rgba(255, 255, 255, 0.05); border: none; width: 32px; height: 32px; border-radius: 6px; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.2s ease; color: #9CA3AF;">
+            <i class="fas fa-step-backward" style="font-size: 0.75rem;"></i>
+          </button>
+          <button style="background: #1DB954; border: none; width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.2s ease; color: white; box-shadow: 0 2px 10px rgba(29, 185, 84, 0.3);">
+            <i class="fas fa-pause" style="font-size: 0.9rem;"></i>
+          </button>
+          <button style="background: rgba(255, 255, 255, 0.05); border: none; width: 32px; height: 32px; border-radius: 6px; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.2s ease; color: #9CA3AF;">
+            <i class="fas fa-step-forward" style="font-size: 0.75rem;"></i>
+          </button>
+        </div>
+      </div>
+    </div>
   </div>
   
   <blockquote>
@@ -193,43 +243,61 @@
 
 ## 🚀 Professional Summary
 
-Computer Science and Engineering graduate with expertise in Full-stack Development, Artificial Intelligence, Data Science in Machine Learning, and DevOps Development. Skilled in building robust frontend/backend systems, managing SQL/NoSQL databases, Firebase, and integrating AI models.
+    <!-- Quote Section -->
+    <div style="background: rgba(59, 130, 246, 0.05); border-left: 4px solid #3B82F6; padding: 1.5rem; border-radius: 0 8px 8px 0; margin: 2rem 0; position: relative; overflow: hidden;">
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(45deg, transparent, rgba(59, 130, 246, 0.03)); z-index: 0;"></div>
+      <div style="position: relative; z-index: 1;">
+        <i class="fas fa-quote-left" style="color: #3B82F6; font-size: 2rem; opacity: 0.2; position: absolute; top: 0; left: 0.5rem;"></i>
+        <p style="font-style: italic; color: #E5E7EB; margin: 0 0 1rem 0; padding: 0 1.5rem; position: relative; font-size: 1.1rem; line-height: 1.6;">
+          The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.
+        </p>
+        <div style="display: flex; align-items: center; gap: 0.75rem;">
+          <div style="width: 32px; height: 32px; border-radius: 50%; background: #3B82F6; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">SJ</div>
+          <div>
+            <div style="font-weight: 600; color: #F3F4F6;">Steve Jobs</div>
+            <div style="font-size: 0.85rem; color: #9CA3AF;">Co-founder of Apple Inc.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Professional Summary -->
+    <div style="margin: 3rem 0 2.5rem 0; position: relative;">
+      <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
+        <div style="width: 6px; height: 28px; background: linear-gradient(to bottom, #3B82F6, #8B5CF6); border-radius: 3px;"></div>
+        <h2 style="margin: 0; font-size: 1.5rem; font-weight: 700; color: #F9FAFB;">Professional Summary</h2>
+      </div>
+      
+      <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: 12px; padding: 1.75rem; position: relative; overflow: hidden;">
+        <div style="position: absolute; top: 0; right: 0; width: 200px; height: 200px; background: radial-gradient(circle, rgba(59, 130, 246, 0.1) 0%, transparent 70%); transform: translate(30%, -30%);"></div>
+        
+        <p style="margin: 0 0 1.25rem 0; color: #E5E7EB; line-height: 1.7; font-size: 1.05rem;">
+          Computer Science and Engineering graduate with expertise in Full-stack Development, Artificial Intelligence, Data Science in Machine Learning, and DevOps Development. Skilled in building robust frontend/backend systems, managing SQL/NoSQL databases, Firebase, and integrating AI models.
+        </p>
+        
+        <div style="display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1.5rem;">
+          <span style="background: rgba(59, 130, 246, 0.1); color: #3B82F6; font-size: 0.85rem; padding: 0.35rem 0.85rem; border-radius: 20px; display: inline-flex; align-items: center; gap: 0.4rem;">
+            <i class="fas fa-code"></i>
+            <span>Full-Stack Development</span>
+          </span>
+          <span style="background: rgba(16, 185, 129, 0.1); color: #10B981; font-size: 0.85rem; padding: 0.35rem 0.85rem; border-radius: 20px; display: inline-flex; align-items: center; gap: 0.4rem;">
+            <i class="fas fa-brain"></i>
+            <span>AI/ML Engineering</span>
+          </span>
+          <span style="background: rgba(139, 92, 246, 0.1); color: #8B5CF6; font-size: 0.85rem; padding: 0.35rem 0.85rem; border-radius: 20px; display: inline-flex; align-items: center; gap: 0.4rem;">
+            <i class="fas fa-server"></i>
+            <span>DevOps & Cloud</span>
+          </span>
+        </div>
+      </div>
+    </div>
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-    <!-- DevOps & Cloud -->
-    <div style="background: rgba(255, 255, 255, 0.03); border-radius: 15px; padding: 20px; border-left: 4px solid #2CA5E0;">
-      <h3 style="margin-top: 0; color: #2CA5E0;">DevOps & Cloud</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-        <div style="background: rgba(44, 165, 224, 0.1); padding: 8px 12px; border-radius: 8px; display: flex; align-items: center; gap: 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker"/>
-          <span>Docker</span>
-        </div>
-        <div style="background: rgba(255, 153, 0, 0.1); padding: 8px 12px; border-radius: 8px; display: flex; align-items: center; gap: 8px;">
+<div style="margin: 3rem 0 2.5rem 0; position: relative;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
+    <div style="width: 6px; height: 28px; background: linear-gradient(to bottom, #8B5CF6, #EC4899); border-radius: 3px;"></div>
+    <h2 style="margin: 0; font-size: 1.5rem; font-weight: 700; color: #F9FAFB;">Tech Stack</h2>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" alt="AWS"/>
           <span>AWS</span>
         </div>
