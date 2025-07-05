@@ -106,99 +106,13 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 🎵 Now Player - Modern Music Player
+## 🎵 Now Player
 
-<div align="center" style="margin: 20px 0 30px 0;">
-  <!-- Visual Preview of the Player -->
-  <div style="background: #ffffff; border-radius: 8px; padding: 20px; max-width: 500px; margin: 0 auto; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); border: 1px solid #e0e0e0;">
-    <!-- Song Info -->
-    <div style="display: flex; align-items: center; gap: 20px; width: 100%;">
-      <div style="display: flex; align-items: center; flex: 1; min-width: 0;">
-        <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #1DB954 0%, #1ed760 100%); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px; box-shadow: 0 4px 8px rgba(29, 185, 84, 0.2);">
-          <span style="color: white; font-size: 20px;">▶️</span>
-        </div>
-        <div style="overflow: hidden;">
-          <div style="font-weight: 700; color: #000000; font-size: 1.2rem; margin: 0 0 4px 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Now Player</div>
-          <div style="font-size: 0.95rem; color: #535353; margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">A modern music player experience</div>
-        </div>
-      </div>
-    </div>
-    
-    <!-- Progress Bar -->
-    <div style="margin: 12px 0 8px 0;">
-      <div style="height: 5px; background: #e0e0e0; border-radius: 3px; overflow: hidden; width: 100%;">
-        <div style="width: 65%; height: 100%; background: linear-gradient(90deg, #7209b7, #3a0ca3); border-radius: 3px;"></div>
-      </div>
-      <!-- Time Display -->
-      <div style="display: flex; justify-content: space-between; margin-top: 4px;">
-        <span style="font-size: 11px; color: #888; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-weight: 600;">1:23</span>
-        <span style="font-size: 11px; color: #888; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-weight: 600;">3:45</span>
-      </div>
-    </div>
-    
-    <!-- Controls -->
-    <div style="display: flex; justify-content: center; gap: 25px; margin: 10px 0 20px 0;">
-      <button style="background: none; border: none; color: #4cc9f0; cursor: pointer; font-size: 18px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Previous">
-        <i class="fas fa-step-backward"></i>
-      </button>
-      <button style="background: #1DB954; border: none; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; cursor: pointer; color: white; box-shadow: 0 4px 8px rgba(29, 185, 84, 0.2); transition: all 0.2s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 12px rgba(29, 185, 84, 0.3)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(29, 185, 84, 0.2)'" title="Play">
-        <i class="fas fa-play" style="margin-left: 2px;"></i>
-      </button>
-      <button style="background: none; border: none; color: #4cc9f0; cursor: pointer; font-size: 18px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Next">
-        <i class="fas fa-step-forward"></i>
-      </button>
-    </div>
-    
-    <!-- Try it Button -->
-    <div style="text-align: center;">
-      <a href="./now-player" style="display: inline-block; padding: 10px 24px; background: #1DB954; color: white; text-decoration: none; border-radius: 25px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(29, 185, 84, 0.25)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
-        Open Now Player <i class="fas fa-external-link-alt" style="margin-left: 5px; font-size: 12px;"></i>
-      </a>
-    </div>
-  </div>
+<div align="center">
+  <a href="./now-player" style="display: inline-block; padding: 12px 28px; background: #1DB954; color: white; text-decoration: none; border-radius: 30px; font-weight: 600; font-size: 16px; transition: all 0.3s ease; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; box-shadow: 0 4px 15px rgba(29, 185, 84, 0.3);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 20px rgba(29, 185, 84, 0.4)'" onmouseout="this.style.transform='none'; this.style.boxShadow='0 4px 15px rgba(29, 185, 84, 0.3)'">
+    🎵 Open Now Player
+  </a>
 </div>
-
-### 🎧 Features
-
-- 🎵 **Automatic Music Loading**: Scans and loads music from the `/music` folder
-- ⏯️ **Playback Controls**: Play, pause, next, and previous track navigation
-- 🎨 **Modern UI**: Clean, responsive design with smooth animations
-- ⏱️ **Progress Tracking**: Visual progress bar with seek functionality
-- 🎚️ **Volume Control**: Adjustable volume with visual feedback
-- ⌨️ **Keyboard Shortcuts**: Control playback with keyboard shortcuts
-- 📱 **Responsive Design**: Works on all device sizes
-
-### 🚀 Quick Start
-
-1. Clone this repository
-2. Add your music files to the `now-player/music` folder
-3. Open `now-player/index.html` in a web browser
-4. The player will automatically load and play your music
-
-### 📁 Project Structure
-
-```
-now-player/
-├── index.html          # Main HTML file
-├── style.css           # Player styles and animations
-├── script.js           # Player functionality and controls
-├── README.md           # Detailed documentation
-└── music/              # Directory for your music files
-    ├── song1.mp3
-    ├── song2.mp3
-    └── ...
-```
-
-### 🎛️ Keyboard Shortcuts
-
-| Key | Action |
-|-----|--------|
-| Space | Play/Pause |
-| → | Next Track |
-| ← | Previous Track |
-| ↑ | Increase Volume |
-| ↓ | Decrease Volume |
-| M | Mute/Unmute |
 
 ### 🔗 [Open Now Player](./now-player)
 
