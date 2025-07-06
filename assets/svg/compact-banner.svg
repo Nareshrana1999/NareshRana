@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
   <!-- Compact Banner with Logo, Name, and Typing Effect -->
   <defs>
     <!-- Logo -->
@@ -56,12 +56,12 @@
     
     .content {
       text-align: center;
-      color: #ffffff;
+      color: #ffffff !important;
       font-family: 'Fira Code', monospace;
-      font-size: 16px;
-      line-height: 1.6;
+      font-size: 18px;
+      line-height: 1.8;
       width: 100%;
-      margin-top: 20px;
+      margin-top: 30px;
     }
     
     .line {
@@ -84,19 +84,22 @@
     }
     
     .name {
-      font-size: 28px;
-      font-weight: bold;
-      color: #4AF626;
-      margin-top: 15px;
+      font-size: 42px;
+      font-weight: 800;
+      color: #ffffff !important;
+      margin: 20px 0;
       display: block;
       opacity: 0;
+      text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
       animation: fadeIn 0.5s ease-out 3.5s forwards;
     }
     
     .title {
-      font-size: 16px;
-      color: #64d2ff;
+      font-size: 20px;
+      color: #ffffff !important;
+      font-weight: 600;
       opacity: 0;
+      margin-top: 30px;
       animation: fadeIn 0.5s ease-out 4s forwards;
     }
     
@@ -117,20 +120,21 @@
       margin-left: 4px;
     }
     
-    /* Syntax Highlighting */
-    .comment { color: #5f875f; }
-    .string { color: #ce9178; }
-    .keyword { color: #569cd6; }
-    .function { color: #dcdcaa; }
-    .variable { color: #9cdcfe; }
-    .number { color: #b5cea8; }
-    .operator { color: #d4d4d4; }
-    .prompt { color: #ffffff; }
-    .command { color: #64d2ff; }
+    /* Syntax Highlighting - All white for visibility */
+    .comment { color: #ffffff !important; }
+    .string { color: #ffffff !important; }
+    .keyword { color: #ffffff !important; }
+    .function { color: #ffffff !important; }
+    .variable { color: #ffffff !important; }
+    .number { color: #ffffff !important; }
+    .operator { color: #ffffff !important; }
+    .prompt { color: #ffffff !important; }
+    .command { color: #ffffff !important; }
+    .property { color: #ffffff !important; }
   </style>
   
   <!-- Banner Container -->
-  <rect width="100%" height="100%" rx="10" fill="#0a0a0a" />
+  <rect width="100%" height="100%" rx="10" fill="#121212" />
   
   <!-- Banner Content -->
   <g class="banner">
@@ -172,7 +176,7 @@
   </g>
   
   <!-- Status Bar -->
-  <rect x="0" y="180" width="100%" height="20" fill="#1a1a1a" rx="0 0 10px 10px" />
-  <text x="10" y="195" font-family="Arial" font-size="10" fill="#4AF626">TERMINAL</text>
-  <text x="990" y="195" font-family="Arial" font-size="10" fill="#888" text-anchor="end">JavaScript</text>
+  <rect x="0" y="280" width="100%" height="25" fill="#000000" rx="0 0 10px 10px" />
+  <text x="15" y="298" font-family="Arial" font-size="12" fill="#ffffff" font-weight="bold">TERMINAL</text>
+  <text x="985" y="298" font-family="Arial" font-size="12" fill="#ffffff" text-anchor="end">JavaScript</text>
 </svg>
