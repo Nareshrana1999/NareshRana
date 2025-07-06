@@ -1,6 +1,6 @@
-<!-- Clean Terminal Banner -->
-<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; background: #0a0a1a; padding: 40px 0;">
-  <img src="assets/svg/terminal-banner-clean.svg" alt="Naresh Rana - Terminal" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 0 30px rgba(74, 246, 38, 0.2);">
+<!-- Simple Code Terminal -->
+<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; background: #0a0a0a; padding: 40px 0;">
+  <img src="assets/svg/simple-terminal.svg" alt="Naresh Rana - Developer" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto; border-radius: 8px; border: 1px solid #1e1e1e;">
 </div>
 
 <!-- Spacer -->
