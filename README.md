@@ -27,7 +27,7 @@
 <!-- Animated GIF in top right corner -->
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
   <div style="margin-left: auto;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="250" />
+    <img src="assets/gif/Gif.gif" alt="Coding" width="250" />
   </div>
 
 ## 📊 GitHub Stats
