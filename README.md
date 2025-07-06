@@ -1,8 +1,6 @@
-<!-- Title -->
-<div align="center">
-  <h1>
-    <img src="assets/svg/naresh-rana.svg" alt="Naresh Rana - Full Stack Developer" width="100%">
-  </h1>
+<!-- Animated Title -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="assets/svg/animated-name.svg" alt="Naresh Rana - Full Stack Developer" width="100%">
 </div>
 
 <!-- Banner -->
