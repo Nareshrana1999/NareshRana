@@ -38,6 +38,8 @@
       background: #0a0a0a;
       border-radius: 10px;
       display: flex;
+      flex-direction: column;
+      justify-content: center;
       align-items: center;
       padding: 20px 30px;
       box-sizing: border-box;
@@ -46,17 +48,20 @@
     }
     
     .logo-container {
-      margin-right: 30px;
+      margin-bottom: 20px;
+      text-align: center;
       opacity: 0;
       animation: fadeIn 0.5s ease-out 3s forwards;
     }
     
     .content {
-      flex: 1;
-      color: #f0f0f0;
+      text-align: center;
+      color: #ffffff;
       font-family: 'Fira Code', monospace;
       font-size: 16px;
       line-height: 1.6;
+      width: 100%;
+      margin-top: 20px;
     }
     
     .line {
@@ -79,10 +84,11 @@
     }
     
     .name {
-      font-size: 24px;
+      font-size: 28px;
       font-weight: bold;
       color: #4AF626;
-      margin-top: 10px;
+      margin-top: 15px;
+      display: block;
       opacity: 0;
       animation: fadeIn 0.5s ease-out 3.5s forwards;
     }
@@ -119,7 +125,7 @@
     .variable { color: #9cdcfe; }
     .number { color: #b5cea8; }
     .operator { color: #d4d4d4; }
-    .prompt { color: #4AF626; }
+    .prompt { color: #ffffff; }
     .command { color: #64d2ff; }
   </style>
   
@@ -128,39 +134,39 @@
   
   <!-- Banner Content -->
   <g class="banner">
-    <!-- Logo -->
+    <!-- Logo and Name -->
     <g class="logo-container">
-      <use href="#logo" x="0" y="0" />
+      <use href="#logo" x="-30" y="0" />
+      <text class="name" x="0" y="70">Naresh Rana</text>
     </g>
     
     <!-- Content -->
     <g class="content">
       <!-- Line 1: Welcome -->
-      <text class="line line-1" x="0" y="30">
+      <text class="line line-1" x="0" y="120">
         <tspan class="comment">// Hello! I'm Naresh Rana</tspan>
       </text>
       
       <!-- Line 2: Command -->
-      <text class="line line-2" x="0" y="55">
+      <text class="line line-2" x="0" y="145">
         <tspan class="prompt">$ </tspan>
         <tspan class="command">whoami</tspan>
         <use href="#cursor" x="0" y="0" class="cursor" />
       </text>
       
       <!-- Line 3: Info -->
-      <text class="line line-3" x="0" y="80">
+      <text class="line line-3" x="0" y="170">
         <tspan class="keyword">const</tspan> <tspan class="variable">skills</tspan> <tspan class="operator">=</tspan> [<tspan class="string">'JavaScript'</tspan>, <tspan class="string">'React'</tspan>, <tspan class="string">'Node.js'</tspan>, <tspan class="string">'Python'</tspan>];
       </text>
       
       <!-- Line 4: More Info -->
-      <text class="line line-4" x="0" y="105">
+      <text class="line line-4" x="0" y="195">
         <tspan class="keyword">const</tspan> <tspan class="variable">contact</tspan> <tspan class="operator">=</tspan> { <tspan class="property">email</tspan><tspan class="operator">:</tspan> <tspan class="string">'naresh@example.com'</tspan> };
       </text>
       
-      <!-- Name and Title -->
+      <!-- Title -->
       <g class="line-5">
-        <text x="0" y="140" class="name">Naresh Rana</text>
-        <text x="0" y="165" class="title">Building digital experiences with code</text>
+        <text x="0" y="220" class="title">Building digital experiences with code</text>
       </g>
     </g>
   </g>
