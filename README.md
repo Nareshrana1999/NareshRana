@@ -24,13 +24,12 @@
   <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
 
-<!-- Animated GIFs and Interactive Game -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 20px 0;">
-  <!-- Coding GIF (smaller) -->
-  <div style="flex: 1;">
+<!-- Animated GIF in top right corner -->
+<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
+  <div style="margin-left: auto;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="250" />
   </div>
-  
+
 ## 📊 GitHub Stats
 
 <div align="center">
