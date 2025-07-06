@@ -1,6 +1,6 @@
-<!-- Premium Animated Header -->
-<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; background: #0a192f; padding: 50px 0;">
-  <img src="assets/svg/premium-animation.svg" alt="Naresh Rana" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;">
+<!-- LED Style Banner -->
+<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; background: #000; padding: 40px 0;">
+  <img src="assets/svg/led-banner.svg" alt="Naresh Rana - LED Style" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;">
 </div>
 
 <!-- Spacer -->
