@@ -24,6 +24,12 @@
   <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
 
+<!-- Animated GIFs -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400" />
+  <img src="https://media.giphy.com/media/3o7TKsQ8U4XFK2mlUQ/giphy.gif" alt="Traveling" width="400" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
