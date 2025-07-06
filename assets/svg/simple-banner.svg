@@ -30,7 +30,7 @@
     
     .title {
       font-size: 20px;
-      fill: #4AF626;
+      fill: #3498db;
       text-anchor: middle;
       animation: fadeIn 1s ease-out 1.5s both;
     }
@@ -66,12 +66,12 @@
   <text x="500" y="160" class="name">Naresh Rana</text>
   
   <!-- Title -->
-  <text x="500" y="190" class="title">Full Stack Developer | AI Enthusiast</text>
+  <text x="500" y="190" class="title">Full Stack Developer | DevOps Engineer | AI Enthusiast</text>
   
   <!-- Terminal Text -->
   <g transform="translate(100, 220)" class="code">
     <text x="0" y="0">$ <tspan fill="#4AF626">whoami</tspan> NareshRana</text>
-    <text x="0" y="25">$ <tspan fill="#4AF626">echo</tspan> "Welcome to my profile!"</text>
+    <text x="0" y="25">$ <tspan fill="#4AF626">echo</tspan> "Welcome to My GitHub Profile"</text>
   </g>
   
   <!-- Status Bar -->
