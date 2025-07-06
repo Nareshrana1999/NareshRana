@@ -31,20 +31,6 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="250" />
   </div>
   
-  <!-- Interactive Crossy Road Game -->
-  <div style="flex: 1; text-align: center;">
-    <h3>🎮 Play Crossy Road!</h3>
-    <canvas id="gameCanvas" width="400" height="600" style="border: 2px solid #333; background: linear-gradient(to bottom, #87CEEB, #98FB98);"></canvas>
-    <div style="margin-top: 10px;">
-      <p><strong>Controls:</strong> Use arrow keys or WASD to move</p>
-      <p><strong>Score:</strong> <span id="score">0</span> | <strong>Lives:</strong> <span id="lives">3</span></p>
-      <button onclick="startGame()" style="background: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; margin: 5px;">Start Game</button>
-      <button onclick="pauseGame()" style="background: #FF9800; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; margin: 5px;">Pause</button>
-      <button onclick="resetGame()" style="background: #f44336; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; margin: 5px;">Reset</button>
-    </div>
-  </div>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
