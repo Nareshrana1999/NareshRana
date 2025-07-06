@@ -1,6 +1,6 @@
-<!-- Animated Header -->
-<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden;">
-  <img src="assets/svg/header-animation.svg" alt="Naresh Rana - Full Stack Developer" style="width: 100%; max-width: 800px; height: auto; display: block; margin: 0 auto;">
+<!-- Glitch Animated Header -->
+<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; background-color: #0a0a0a; padding: 20px 0;">
+  <img src="assets/svg/glitch-name.svg" alt="Naresh Rana" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;">
 </div>
 
 <!-- Spacer -->
