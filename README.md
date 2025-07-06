@@ -1,93 +1,10 @@
-<!-- Animated Title -->
-<div align="center" style="margin-bottom: 20px;">
-  <svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
-      
-      .logo {
-        font-family: 'Orbitron', sans-serif;
-        font-weight: 700;
-        font-size: 80px;
-        fill: #4285F4;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        filter: drop-shadow(0 0 10px rgba(66, 133, 244, 0.7));
-        animation: glow 2s ease-in-out infinite alternate;
-      }
-      
-      .logo-bg {
-        fill: transparent;
-        stroke: #4285F4;
-        stroke-width: 2;
-        stroke-dasharray: 0 1000;
-        animation: draw 3s ease-in-out forwards;
-      }
-      
-      .nr-logo {
-        font-family: 'Orbitron', sans-serif;
-        font-weight: 700;
-        font-size: 32px;
-        fill: #EA4335;
-        animation: glitch 1s infinite;
-      }
-      
-      @keyframes glow {
-        from { text-shadow: 0 0 10px #4285F4, 0 0 20px #4285F4, 0 0 30px #34A853, 0 0 40px #34A853; }
-        to { text-shadow: 0 0 20px #4285F4, 0 0 30px #34A853, 0 0 40px #FBBC05, 0 0 50px #EA4335; }
-      }
-      
-      @keyframes draw {
-        to { stroke-dasharray: 1000 0; }
-      }
-      
-      @keyframes glitch {
-        0% { transform: translate(0); }
-        20% { transform: translate(-2px, 2px); }
-        40% { transform: translate(-2px, -2px); }
-        60% { transform: translate(2px, 2px); }
-        80% { transform: translate(2px, -2px); }
-        100% { transform: translate(0); }
-      }
-    </style>
-    
-    <!-- Background Glow -->
-    <rect x="0" y="0" width="100%" height="100%" fill="#0a192f" />
-    
-    <!-- Main Text -->
-    <g transform="translate(150, 90)">
-      <!-- NR Logo -->
-      <g class="nr-logo" transform="translate(-120, -40)">
-        <rect x="0" y="0" width="60" height="60" rx="10" fill="#0a192f" stroke="#4285F4" stroke-width="2" />
-        <text x="30" y="40" text-anchor="middle" font-weight="bold" font-size="28">NR</text>
-      </g>
-      
-      <!-- Name with Glitch Effect -->
-      <g class="logo">
-        <text x="0" y="0" class="logo-bg">NARESH RANA</text>
-        <text x="0" y="0">NARESH RANA</text>
-      </g>
-      
-      <!-- Tagline -->
-      <text x="0" y="30" font-family="Arial, sans-serif" font-size="16" fill="#8A94A7" text-anchor="middle">
-        FULL STACK DEVELOPER | AI ENTHUSIAST
-      </text>
-    </g>
-    
-    <!-- Decorative Elements -->
-    <line x1="0" y1="100" x2="800" y2="100" stroke="#1E3A8A" stroke-width="1" stroke-dasharray="5,5" />
-    
-    <!-- Animated Circles -->
-    <circle cx="50" cy="30" r="5" fill="#EA4335">
-      <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="750" cy="30" r="5" fill="#FBBC05">
-      <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite" begin="1s" />
-    </circle>
-    <circle cx="400" cy="110" r="3" fill="#34A853">
-      <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite" begin="0.5s" />
-    </circle>
-  </svg>
+<!-- Animated Header -->
+<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden;">
+  <img src="assets/svg/header-animation.svg" alt="Naresh Rana - Full Stack Developer" style="width: 100%; max-width: 800px; height: auto; display: block; margin: 0 auto;">
 </div>
+
+<!-- Spacer -->
+<div style="height: 20px;"></div>
 
 <!-- Banner -->
 <p align="center">

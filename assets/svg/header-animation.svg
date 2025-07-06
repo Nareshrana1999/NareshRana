@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
+    
+    .name-text {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 64px;
+      fill: #ffffff;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      animation: glow 2s ease-in-out infinite alternate;
+    }
+    
+    .title-text {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 600;
+      font-size: 20px;
+      fill: #8A94A7;
+      letter-spacing: 2px;
+    }
+    
+    .nr-logo {
+      fill: #4285F4;
+      animation: float 3s ease-in-out infinite;
+    }
+    
+    .icon {
+      fill: #ffffff;
+      opacity: 0.8;
+      transition: all 0.3s ease;
+    }
+    
+    .icon:hover {
+      fill: #4285F4;
+      opacity: 1;
+      transform: scale(1.1);
+    }
+    
+    @keyframes glow {
+      from {
+        text-shadow: 0 0 5px #4285F4, 0 0 10px #4285F4;
+      }
+      to {
+        text-shadow: 0 0 10px #4285F4, 0 0 20px #34A853, 0 0 30px #FBBC05;
+      }
+    }
+    
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
+    
+    .pulse {
+      animation: pulse 2s infinite;
+    }
+    
+    @keyframes pulse {
+      0% { opacity: 0.6; }
+      50% { opacity: 1; }
+      100% { opacity: 0.6; }
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0a192f" />
+  
+  <!-- Main Container -->
+  <g transform="translate(40, 40)">
+    <!-- NR Logo -->
+    <g class="nr-logo" transform="translate(0, 20)">
+      <rect x="0" y="0" width="100" height="100" rx="15" fill="#0f2744" />
+      <text x="50" y="65" text-anchor="middle" font-family="Poppins" font-weight="700" font-size="48" fill="#4285F4">NR</text>
+      <circle cx="80" cy="25" r="8" fill="#EA4335" class="pulse" />
+    </g>
+    
+    <!-- Name -->
+    <g transform="translate(120, 0)">
+      <text x="0" y="60" class="name-text">Naresh Rana</text>
+      <text x="0" y="100" class="title-text">FULL STACK DEVELOPER | AI ENTHUSIAST</text>
+      
+      <!-- Icons -->
+      <g transform="translate(0, 130)">
+        <!-- GitHub -->
+        <a xlink:href="https://github.com/NareshRana1999" target="_blank">
+          <g class="icon" transform="translate(0, 0)">
+            <rect x="0" y="0" width="40" height="40" rx="8" fill="#181717" />
+            <text x="20" y="26" text-anchor="middle" font-family="Arial" font-size="24"></text>
+          </g>
+        </a>
+        
+        <!-- LinkedIn -->
+        <a xlink:href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+          <g class="icon" transform="translate(60, 0)">
+            <rect x="0" y="0" width="40" height="40" rx="8" fill="#0077B5" />
+            <text x="20" y="26" text-anchor="middle" font-family="Arial" font-size="24"></text>
+          </g>
+        </a>
+        
+        <!-- Email -->
+        <a xlink:href="mailto:nareshrana1999@outlook.com">
+          <g class="icon" transform="translate(120, 0)">
+            <rect x="0" y="0" width="40" height="40" rx="8" fill="#0078D4" />
+            <text x="20" y="26" text-anchor="middle" font-family="Arial" font-size="24">✉️</text>
+          </g>
+        </a>
+        
+        <!-- WhatsApp -->
+        <a xlink:href="https://wa.me/916363830414" target="_blank">
+          <g class="icon" transform="translate(180, 0)">
+            <rect x="0" y="0" width="40" height="40" rx="8" fill="#25D366" />
+            <text x="20" y="26" text-anchor="middle" font-family="Arial" font-size="24"></text>
+          </g>
+        </a>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Animated Elements -->
+  <circle cx="50" cy="30" r="5" fill="#EA4335">
+    <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="750" cy="30" r="5" fill="#FBBC05">
+    <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite" begin="1s" />
+  </circle>
+  <circle cx="400" cy="160" r="3" fill="#34A853">
+    <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite" begin="0.5s" />
+  </circle>
+  
+  <!-- Decorative Elements -->
+  <line x1="0" y1="170" x2="800" y2="170" stroke="#1E3A8A" stroke-width="1" stroke-dasharray="5,5" opacity="0.5" />
+</svg>
