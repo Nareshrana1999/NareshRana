@@ -1,6 +1,6 @@
-<!-- Centered Terminal Animation -->
-<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; background: #0a0a0a; padding: 40px 0;">
-  <img src="assets/svg/centered-terminal.svg" alt="Naresh Rana - Developer Profile" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto; border-radius: 10px; border: 1px solid #1e1e1e;">
+<!-- Compact Banner with Logo and Typing Effect -->
+<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; background: #0a0a0a; padding: 20px 0;">
+  <img src="assets/svg/compact-banner.svg" alt="Naresh Rana - Developer" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
 </div>
 
 <!-- Spacer -->
