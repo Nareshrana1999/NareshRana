@@ -1,7 +1,7 @@
-<!-- Animated Title -->
+<!-- Title -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=3000&pause=1000&color=0d47a1&center=true&vCenter=true&width=800&lines=👋+Hi+there%2C+I'm+Naresh+Rana+%F0%9F%91%8B;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+DevOps+Engineer" alt="Typing SVG">
+    <img src="assets/svg/naresh-rana.svg" alt="Naresh Rana - Full Stack Developer" width="100%">
   </h1>
 </div>
 
