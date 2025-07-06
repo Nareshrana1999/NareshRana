@@ -24,10 +24,352 @@
   <img src="https://komarev.com/ghpvc/?username=NareshRana1999&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
 
-<!-- Animated GIFs -->
-<div align="right" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400" />
+<!-- Animated GIFs and Interactive Game -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 20px 0;">
+  <!-- Coding GIF (smaller) -->
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="250" />
+  </div>
+  
+  <!-- Interactive Crossy Road Game -->
+  <div style="flex: 1; text-align: center;">
+    <h3>🎮 Play Crossy Road!</h3>
+    <canvas id="gameCanvas" width="400" height="600" style="border: 2px solid #333; background: linear-gradient(to bottom, #87CEEB, #98FB98);"></canvas>
+    <div style="margin-top: 10px;">
+      <p><strong>Controls:</strong> Use arrow keys or WASD to move</p>
+      <p><strong>Score:</strong> <span id="score">0</span> | <strong>Lives:</strong> <span id="lives">3</span></p>
+      <button onclick="startGame()" style="background: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; margin: 5px;">Start Game</button>
+      <button onclick="pauseGame()" style="background: #FF9800; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; margin: 5px;">Pause</button>
+      <button onclick="resetGame()" style="background: #f44336; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; margin: 5px;">Reset</button>
+    </div>
+  </div>
 </div>
+
+<script>
+// Crossy Road Game Implementation
+class CrossyRoadGame {
+    constructor() {
+        this.canvas = document.getElementById('gameCanvas');
+        this.ctx = this.canvas.getContext('2d');
+        this.score = 0;
+        this.lives = 3;
+        this.gameRunning = false;
+        this.gamePaused = false;
+        
+        // Player
+        this.player = {
+            x: this.canvas.width / 2,
+            y: this.canvas.height - 50,
+            width: 30,
+            height: 30,
+            speed: 5
+        };
+        
+        // Game objects
+        this.cars = [];
+        this.logs = [];
+        this.coins = [];
+        this.obstacles = [];
+        
+        // Game settings
+        this.carSpeed = 3;
+        this.logSpeed = 2;
+        this.spawnRate = 60;
+        this.frameCount = 0;
+        
+        // Controls
+        this.keys = {};
+        this.setupControls();
+        
+        // Start game loop
+        this.gameLoop();
+    }
+    
+    setupControls() {
+        document.addEventListener('keydown', (e) => {
+            this.keys[e.key.toLowerCase()] = true;
+        });
+        
+        document.addEventListener('keyup', (e) => {
+            this.keys[e.key.toLowerCase()] = false;
+        });
+    }
+    
+    start() {
+        this.gameRunning = true;
+        this.gamePaused = false;
+        this.score = 0;
+        this.lives = 3;
+        this.player.x = this.canvas.width / 2;
+        this.player.y = this.canvas.height - 50;
+        this.cars = [];
+        this.logs = [];
+        this.coins = [];
+        this.obstacles = [];
+        this.updateUI();
+    }
+    
+    pause() {
+        this.gamePaused = !this.gamePaused;
+    }
+    
+    reset() {
+        this.gameRunning = false;
+        this.gamePaused = false;
+        this.score = 0;
+        this.lives = 3;
+        this.player.x = this.canvas.width / 2;
+        this.player.y = this.canvas.height - 50;
+        this.cars = [];
+        this.logs = [];
+        this.coins = [];
+        this.obstacles = [];
+        this.updateUI();
+        this.draw();
+    }
+    
+    updateUI() {
+        document.getElementById('score').textContent = this.score;
+        document.getElementById('lives').textContent = this.lives;
+    }
+    
+    spawnCar() {
+        const car = {
+            x: Math.random() > 0.5 ? -50 : this.canvas.width + 50,
+            y: Math.random() * (this.canvas.height - 200) + 100,
+            width: 60,
+            height: 30,
+            speed: this.carSpeed * (Math.random() > 0.5 ? 1 : -1),
+            color: `hsl(${Math.random() * 360}, 70%, 50%)`
+        };
+        this.cars.push(car);
+    }
+    
+    spawnLog() {
+        const log = {
+            x: Math.random() > 0.5 ? -100 : this.canvas.width + 100,
+            y: Math.random() * 200 + 50,
+            width: 80,
+            height: 20,
+            speed: this.logSpeed * (Math.random() > 0.5 ? 1 : -1)
+        };
+        this.logs.push(log);
+    }
+    
+    spawnCoin() {
+        const coin = {
+            x: Math.random() * (this.canvas.width - 20),
+            y: Math.random() * (this.canvas.height - 200) + 100,
+            width: 15,
+            height: 15,
+            collected: false
+        };
+        this.coins.push(coin);
+    }
+    
+    updatePlayer() {
+        if (this.keys['arrowup'] || this.keys['w']) {
+            this.player.y = Math.max(0, this.player.y - this.player.speed);
+            if (this.player.y < this.canvas.height / 2) {
+                this.score += 1;
+                this.updateUI();
+            }
+        }
+        if (this.keys['arrowdown'] || this.keys['s']) {
+            this.player.y = Math.min(this.canvas.height - this.player.height, this.player.y + this.player.speed);
+        }
+        if (this.keys['arrowleft'] || this.keys['a']) {
+            this.player.x = Math.max(0, this.player.x - this.player.speed);
+        }
+        if (this.keys['arrowright'] || this.keys['d']) {
+            this.player.x = Math.min(this.canvas.width - this.player.width, this.player.x + this.player.speed);
+        }
+    }
+    
+    updateGameObjects() {
+        // Update cars
+        this.cars.forEach((car, index) => {
+            car.x += car.speed;
+            if (car.x > this.canvas.width + 100 || car.x < -100) {
+                this.cars.splice(index, 1);
+            }
+        });
+        
+        // Update logs
+        this.logs.forEach((log, index) => {
+            log.x += log.speed;
+            if (log.x > this.canvas.width + 100 || log.x < -100) {
+                this.logs.splice(index, 1);
+            }
+        });
+        
+        // Update coins
+        this.coins.forEach((coin, index) => {
+            if (!coin.collected && this.checkCollision(this.player, coin)) {
+                coin.collected = true;
+                this.score += 10;
+                this.updateUI();
+            }
+        });
+    }
+    
+    checkCollision(rect1, rect2) {
+        return rect1.x < rect2.x + rect2.width &&
+               rect1.x + rect1.width > rect2.x &&
+               rect1.y < rect2.y + rect2.height &&
+               rect1.y + rect1.height > rect2.y;
+    }
+    
+    checkGameOver() {
+        // Check car collisions
+        this.cars.forEach(car => {
+            if (this.checkCollision(this.player, car)) {
+                this.lives--;
+                this.updateUI();
+                this.player.x = this.canvas.width / 2;
+                this.player.y = this.canvas.height - 50;
+                
+                if (this.lives <= 0) {
+                    this.gameRunning = false;
+                    alert(`Game Over! Final Score: ${this.score}`);
+                }
+            }
+        });
+        
+        // Check if player fell in water (not on log)
+        if (this.player.y < 200 && this.player.y > 50) {
+            let onLog = false;
+            this.logs.forEach(log => {
+                if (this.checkCollision(this.player, log)) {
+                    onLog = true;
+                }
+            });
+            
+            if (!onLog) {
+                this.lives--;
+                this.updateUI();
+                this.player.x = this.canvas.width / 2;
+                this.player.y = this.canvas.height - 50;
+                
+                if (this.lives <= 0) {
+                    this.gameRunning = false;
+                    alert(`Game Over! Final Score: ${this.score}`);
+                }
+            }
+        }
+    }
+    
+    draw() {
+        // Clear canvas
+        this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
+        
+        // Draw background
+        this.ctx.fillStyle = '#87CEEB';
+        this.ctx.fillRect(0, 0, this.canvas.width, 200);
+        this.ctx.fillStyle = '#98FB98';
+        this.ctx.fillRect(0, 200, this.canvas.width, this.canvas.height - 200);
+        
+        // Draw road
+        this.ctx.fillStyle = '#333';
+        this.ctx.fillRect(0, 200, this.canvas.width, 100);
+        
+        // Draw road lines
+        this.ctx.strokeStyle = '#FFF';
+        this.ctx.setLineDash([10, 10]);
+        this.ctx.beginPath();
+        this.ctx.moveTo(0, 250);
+        this.ctx.lineTo(this.canvas.width, 250);
+        this.ctx.stroke();
+        
+        // Draw player
+        this.ctx.fillStyle = '#FF6B6B';
+        this.ctx.fillRect(this.player.x, this.player.y, this.player.width, this.player.height);
+        
+        // Draw cars
+        this.cars.forEach(car => {
+            this.ctx.fillStyle = car.color;
+            this.ctx.fillRect(car.x, car.y, car.width, car.height);
+            
+            // Car details
+            this.ctx.fillStyle = '#000';
+            this.ctx.fillRect(car.x + 5, car.y + 5, 10, 10);
+            this.ctx.fillRect(car.x + car.width - 15, car.y + 5, 10, 10);
+        });
+        
+        // Draw logs
+        this.logs.forEach(log => {
+            this.ctx.fillStyle = '#8B4513';
+            this.ctx.fillRect(log.x, log.y, log.width, log.height);
+        });
+        
+        // Draw coins
+        this.coins.forEach(coin => {
+            if (!coin.collected) {
+                this.ctx.fillStyle = '#FFD700';
+                this.ctx.beginPath();
+                this.ctx.arc(coin.x + coin.width/2, coin.y + coin.height/2, coin.width/2, 0, 2 * Math.PI);
+                this.ctx.fill();
+            }
+        });
+        
+        // Draw UI
+        this.ctx.fillStyle = '#000';
+        this.ctx.font = '16px Arial';
+        this.ctx.fillText(`Score: ${this.score}`, 10, 30);
+        this.ctx.fillText(`Lives: ${this.lives}`, 10, 50);
+        
+        if (!this.gameRunning) {
+            this.ctx.fillStyle = 'rgba(0, 0, 0, 0.7)';
+            this.ctx.fillRect(0, 0, this.canvas.width, this.canvas.height);
+            this.ctx.fillStyle = '#FFF';
+            this.ctx.font = '24px Arial';
+            this.ctx.textAlign = 'center';
+            this.ctx.fillText('Press Start to Play!', this.canvas.width/2, this.canvas.height/2);
+            this.ctx.textAlign = 'left';
+        }
+    }
+    
+    gameLoop() {
+        if (this.gameRunning && !this.gamePaused) {
+            this.updatePlayer();
+            this.updateGameObjects();
+            this.checkGameOver();
+            
+            // Spawn objects
+            this.frameCount++;
+            if (this.frameCount % this.spawnRate === 0) {
+                this.spawnCar();
+                this.spawnLog();
+                if (Math.random() > 0.7) {
+                    this.spawnCoin();
+                }
+            }
+        }
+        
+        this.draw();
+        requestAnimationFrame(() => this.gameLoop());
+    }
+}
+
+// Initialize game
+let game;
+window.addEventListener('load', () => {
+    game = new CrossyRoadGame();
+});
+
+// Global functions for buttons
+function startGame() {
+    if (game) game.start();
+}
+
+function pauseGame() {
+    if (game) game.pause();
+}
+
+function resetGame() {
+    if (game) game.reset();
+}
+</script>
 
 ## 📊 GitHub Stats
 
