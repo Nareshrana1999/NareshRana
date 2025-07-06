@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Base Styles */
+    .container {
+      width: 100%;
+      height: 100%;
+      background: #0a192f;
+      overflow: hidden;
+      position: relative;
+    }
+    
+    /* Logo Styles */
+    .logo-container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+    
+    /* Custom NR Logo */
+    .logo-nr {
+      width: 120px;
+      height: 120px;
+      margin: 0 auto;
+      position: relative;
+      opacity: 0;
+      animation: fadeIn 1s ease-out forwards;
+    }
+    
+    .logo-nr-rect {
+      width: 100%;
+      height: 100%;
+      fill: none;
+      stroke: #64ffda;
+      stroke-width: 4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    
+    .logo-nr-n, .logo-nr-r {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      fill: none;
+      stroke: #64ffda;
+      stroke-width: 4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-dasharray: 300;
+      stroke-dashoffset: 300;
+      animation: drawLogo 1.5s ease-out forwards 0.5s;
+    }
+    
+    /* Name Text */
+    .name {
+      font-family: 'Arial', sans-serif;
+      font-weight: 700;
+      font-size: 48px;
+      fill: #ccd6f6;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      opacity: 0;
+    }
+    
+    .first-name {
+      animation: slideUp 1s ease-out forwards 1.5s;
+    }
+    
+    .last-name {
+      animation: slideUp 1s ease-out forwards 1.8s;
+      fill: #64ffda;
+    }
+    
+    /* Animations */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: scale(0.8); }
+      to { opacity: 1; transform: scale(1); }
+    }
+    
+    @keyframes drawLogo {
+      to { stroke-dashoffset: 0; }
+    }
+    
+    @keyframes slideUp {
+      from { 
+        opacity: 0; 
+        transform: translateY(20px); 
+      }
+      to { 
+        opacity: 1; 
+        transform: translateY(0); 
+      }
+    }
+    
+    /* Background Elements */
+    .bg-circle {
+      fill: none;
+      stroke: rgba(100, 255, 218, 0.1);
+      stroke-width: 1;
+    }
+    
+    .bg-circle-1 {
+      animation: pulse 4s ease-in-out infinite;
+    }
+    
+    .bg-circle-2 {
+      animation: pulse 5s ease-in-out infinite 0.5s;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.3; }
+      50% { transform: scale(1.1); opacity: 0.1; }
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0a192f" />
+  
+  <!-- Background Circles -->
+  <circle class="bg-circle bg-circle-1" cx="50%" cy="50%" r="80" />
+  <circle class="bg-circle bg-circle-2" cx="50%" cy="50%" r="120" />
+  
+  <!-- Main Content -->
+  <g class="logo-container">
+    <!-- Custom NR Logo -->
+    <div class="logo-nr" xmlns="http://www.w3.org/1999/xhtml">
+      <svg viewBox="0 0 120 120" class="logo-nr-svg">
+        <!-- Background Square -->
+        <rect class="logo-nr-rect" x="10" y="10" width="100" height="100" rx="10" />
+        
+        <!-- N Letter -->
+        <path class="logo-nr-n" d="M40,30 L40,90 M40,30 L80,90 M80,30 L80,90" />
+        
+        <!-- R Letter -->
+        <path class="logo-nr-r" d="M50,50 L80,50 C85,50 90,55 90,60 C90,65 85,70 80,70 L50,90 M50,50 L50,90" />
+      </svg>
+    </div>
+    
+    <!-- Name -->
+    <text class="name first-name" x="0" y="180" text-anchor="middle">Naresh</text>
+    <text class="name last-name" x="0" y="220" text-anchor="middle">Rana</text>
+  </g>
+  
+  <!-- Animated Border -->
+  <rect x="10" y="10" width="780" height="180" fill="none" stroke="#64ffda" stroke-width="2" stroke-dasharray="5,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="100" dur="10s" repeatCount="indefinite" />
+  </rect>
+  
+  <!-- Corner Elements -->
+  <g stroke="#64ffda" stroke-width="2" fill="none">
+    <!-- Top Left -->
+    <line x1="30" y1="20" x2="80" y2="20" />
+    <line x1="20" y1="30" x2="20" y2="80" />
+    
+    <!-- Top Right -->
+    <line x1="770" y1="20" x2="720" y2="20" />
+    <line x1="780" y1="30" x2="780" y2="80" />
+    
+    <!-- Bottom Left -->
+    <line x1="30" y1="180" x2="80" y2="180" />
+    <line x1="20" y1="170" x2="20" y2="120" />
+    
+    <!-- Bottom Right -->
+    <line x1="770" y1="180" x2="720" y2="180" />
+    <line x1="780" y1="170" x2="780" y2="120" />
+  </g>
+</svg>

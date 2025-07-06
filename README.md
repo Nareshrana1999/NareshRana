@@ -1,6 +1,6 @@
-<!-- Dynamic Animated Header -->
-<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; background: #0f0c29; padding: 20px 0;">
-  <img src="assets/svg/dynamic-logo-animation.svg" alt="Naresh Rana" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto;">
+<!-- Personalized Logo Animation -->
+<div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; background: #0a192f; padding: 40px 0;">
+  <img src="assets/svg/personal-logo-animation.svg" alt="Naresh Rana" style="width: 100%; max-width: 800px; height: auto; display: block; margin: 0 auto;">
 </div>
 
 <!-- Spacer -->
