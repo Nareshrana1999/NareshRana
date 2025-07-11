@@ -11,18 +11,23 @@
   <img src="assets/images/banner.svg" alt="Banner" width="100%">
 </p>
 
-<!-- Quick Links -->
-<p align="center" style="margin: 15px 0;">
-  <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Resume"/>
-  </a>
+<!-- Quick Links with Attractive Badges -->
+<div align="center" style="margin: 20px 0;">
   <a href="https://naresh-rana-1999-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio"/>
+    <img src="https://img.shields.io/badge/🎨_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B&color=white" alt="Portfolio" style="margin: 5px;"/>
+  </a>
+  <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4CAF50&color=white" alt="Resume" style="margin: 5px;"/>
   </a>
   <a href="https://github.com/NareshRana1999" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=white" alt="GitHub" style="margin: 5px;"/>
   </a>
-</p>
+</div>
+
+<!-- Simple Banner -->
+<div align="center" style="margin: 25px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0D47A1&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast+%7C+DevOps+Engineer;Building+scalable+solutions+with+modern+technologies;Passionate+about+open+source+and+continuous+learning" alt="Typing SVG" />
+</div>
 
 <!-- Social Links with Profile View Count -->
 <p align="center" style="margin-top: 10px;">
@@ -77,18 +82,20 @@
 <div align="center">
   <p>Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. Passionate about building innovative solutions and continuously learning new technologies.</p>
   
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://naresh-rana-1999-portfolio.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NareshRana1999)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-</div>
-
-## 🚀 Quick Links
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank">📄 View My Resume</a> • 
-  <a href="https://naresh-rana-1999-portfolio.vercel.app/" target="_blank">🌐 Visit My Portfolio</a> • 
-  <a href="https://github.com/NareshRana1999?tab=repositories" target="_blank">💻 My Projects</a>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
+    <a href="https://naresh-rana-1999-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/✨_Portfolio-9C27B0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9C27B0&color=white" alt="Portfolio"/>
+    </a>
+    <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/📑_Resume-2196F3?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2196F3&color=white" alt="Resume"/>
+    </a>
+    <a href="https://github.com/NareshRana1999" target="_blank">
+      <img src="https://img.shields.io/badge/👨‍💻_GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=333333&color=white" alt="GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white" alt="LinkedIn"/>
+    </a>
+  </div>
 </div>
 
 ## 🛠️ Tech Stack
