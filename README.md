@@ -1,26 +1,28 @@
+<!-- Banner -->
+<p align="center" style="margin: 20px 0;">
+  <img src="assets/images/banner.svg" alt="Banner" width="100%" style="border-radius: 10px; max-width: 1000px;">
+</p>
+
 <!-- Simple Banner with Logo and Text -->
 <div align="center" style="margin: 0 auto; max-width: 100%; overflow: hidden; padding: 20px 0;">
   <img src="assets/svg/simple-banner.svg" alt="Naresh Rana - Full Stack Developer" style="width: 100%; max-width: 1000px; height: auto; display: block; margin: 0 auto; border-radius: 10px;">
 </div>
 
-<!-- Spacer -->
-<div style="height: 20px;"></div>
-
-<!-- Banner -->
-<p align="center">
-  <img src="assets/images/banner.svg" alt="Banner" width="100%">
-</p>
-
-<!-- Quick Links with Attractive Badges -->
-<div align="center" style="margin: 20px 0;">
-  <a href="https://naresh-rana-1999-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🎨_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B&color=white" alt="Portfolio" style="margin: 5px;"/>
+<!-- Quick Links with Professional Badges -->
+<div align="center" style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <!-- Portfolio Badge - Navy Blue -->
+  <a href="https://naresh-rana-1999-portfolio.vercel.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🏆_Portfolio-1E40AF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E3A8A&color=60A5FA" alt="Portfolio" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4CAF50&color=white" alt="Resume" style="margin: 5px;"/>
+  
+  <!-- Resume Badge - Deep Purple -->
+  <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📄_Resume-7E22CE?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=6B21A8&color=A78BFA" alt="Resume" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://github.com/NareshRana1999" target="_blank">
-    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=white" alt="GitHub" style="margin: 5px;"/>
+  
+  <!-- GitHub Badge - Dark Gray -->
+  <a href="https://github.com/NareshRana1999" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/💻_GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=9CA3AF" alt="GitHub" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
