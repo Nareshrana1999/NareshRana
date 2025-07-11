@@ -11,11 +11,21 @@
   <img src="assets/images/banner.svg" alt="Banner" width="100%">
 </p>
 
-<!-- Social Links with Profile View Count -->
-<p align="center" style="margin-top: 20px;">
+<!-- Quick Links -->
+<p align="center" style="margin: 15px 0;">
+  <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Resume"/>
+  </a>
+  <a href="https://naresh-rana-1999-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio"/>
+  </a>
   <a href="https://github.com/NareshRana1999" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+<!-- Social Links with Profile View Count -->
+<p align="center" style="margin-top: 10px;">
   <a href="https://wa.me/916363830414" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
@@ -62,9 +72,24 @@
   
 </div>
 
-## 👨‍💻 Professional Summary
+## 👋 Hello, I'm Naresh Rana
 
-Computer Science and Engineering graduate with expertise in Full-stack Development, Artificial Intelligence, Data Science in Machine Learning, and DevOps Development. Skilled in Python, JavaScript, Java, React, Node.js, and cloud technologies. Experienced in building robust systems, managing databases, and integrating AI models.
+<div align="center">
+  <p>Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. Passionate about building innovative solutions and continuously learning new technologies.</p>
+  
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://naresh-rana-1999-portfolio.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NareshRana1999)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+</div>
+
+## 🚀 Quick Links
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank">📄 View My Resume</a> • 
+  <a href="https://naresh-rana-1999-portfolio.vercel.app/" target="_blank">🌐 Visit My Portfolio</a> • 
+  <a href="https://github.com/NareshRana1999?tab=repositories" target="_blank">💻 My Projects</a>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -157,20 +182,6 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 
 ---
 
-### 💼 Accounts Assistant and Storage Manager
-**SPEC Company** | *2020*  
-![Accounts](https://img.shields.io/badge/Accounts-8E24AA?style=flat&logo=cash-app&logoColor=white)  
-- Managed accounting tasks with Tally ERP 9 and prepared financial reports with MS Office tools  
-- Handled bookkeeping, processing invoices, managing ledgers, and maintaining financial records  
-- Managed tools and components inventory, ensuring accurate data entry and tracking  
-- Maintained organized storage systems and managed component distribution  
-
-**Tech Stack**: 
-![Tally](https://img.shields.io/badge/-Tally_ERP-FF6D00?style=flat&logo=tally&logoColor=white)
-![MS Office](https://img.shields.io/badge/-MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
-
----
-
 ### 🔧 IT Support & Networking Technician
 **Store-Based Service** | *2015 – 2016*  
 ![IT Support](https://img.shields.io/badge/IT_Support-0085CA?style=flat&logo=windows&logoColor=white)  
@@ -184,14 +195,14 @@ Computer Science and Engineering graduate with expertise in Full-stack Developme
 ![Hardware](https://img.shields.io/badge/-Hardware-0085CA?style=flat&logo=hardware&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0085CA?style=flat&logo=network&logoColor=white)
 
+---
 
-<!-- Removed Education and Projects sections as requested -->
 ## 🏆 Certifications & Achievements
 
 - 🤖 **Machine Learning** – SkillDzire
 - 🤖 **AI - DevOps Engineer** – Aitch Nu Global Technologies
 - 🔌 **Fiber Optic Communication System** – Skill India (Ministry of Skill Development & Entrepreneurship)
-- 💼 **Tally ERP 9**
+- 🖥️ **Hardware and Networking** – Certified Professional
 - 💻 **Diploma in Computer Application Basics - MS Office**
 
 ---
