@@ -26,11 +26,6 @@
   </a>
 </div>
 
-<!-- Simple Banner -->
-<div align="center" style="margin: 25px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0D47A1&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast+%7C+DevOps+Engineer;Building+scalable+solutions+with+modern+technologies;Passionate+about+open+source+and+continuous+learning" alt="Typing SVG" />
-</div>
-
 <!-- Social Links with Profile View Count -->
 <p align="center" style="margin-top: 10px;">
   <a href="https://wa.me/916363830414" target="_blank">
@@ -84,22 +79,6 @@
 <div align="center">
   <p>Computer Science and Engineering graduate with expertise in Full-stack Development, AI/ML, and DevOps. Passionate about building innovative solutions and continuously learning new technologies.</p>
   
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
-    <a href="https://naresh-rana-1999-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/✨_Portfolio-9C27B0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9C27B0&color=white" alt="Portfolio"/>
-    </a>
-    <a href="https://drive.google.com/file/d/16PToaEATGAI8P9qANT5J2HlN_OXUyOVN/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/badge/📑_Resume-2196F3?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2196F3&color=white" alt="Resume"/>
-    </a>
-    <a href="https://github.com/NareshRana1999" target="_blank">
-      <img src="https://img.shields.io/badge/👨‍💻_GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=333333&color=white" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white" alt="LinkedIn"/>
-    </a>
-  </div>
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
